@@ -150,3 +150,4 @@
 {"timestamp":"2025-05-14T22:59:49.518398","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-05-14T23:00:20.044876","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-05-14T23:00:50.383605","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-14T23:01:52.071764","level":"info","event":"Filling up the DagBag from /home/airflow/.local/lib/python3.12/site-packages/airflow/example_dags/example_local_kubernetes_executor.py","logger":"airflow.models.dagbag.DagBag"}

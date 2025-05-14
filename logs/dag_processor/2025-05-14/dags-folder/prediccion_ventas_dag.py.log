@@ -180,3 +180,10 @@
 {"timestamp":"2025-05-14T22:59:07.996003","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/prediccion_ventas_dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-05-14T22:59:43.681520","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/prediccion_ventas_dag.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-05-14T23:00:45.183845","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/prediccion_ventas_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-14T23:01:16.028268","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/prediccion_ventas_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-14T23:01:46.550587","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/prediccion_ventas_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-14T23:02:17.284729","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/prediccion_ventas_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-14T23:02:47.833666","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/prediccion_ventas_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-14T23:03:18.780450","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/prediccion_ventas_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-14T23:03:49.279117","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/prediccion_ventas_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-14T23:04:19.610005","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/prediccion_ventas_dag.py","logger":"airflow.models.dagbag.DagBag"}

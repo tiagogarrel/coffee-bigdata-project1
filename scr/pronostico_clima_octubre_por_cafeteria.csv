@@ -1,0 +1,2357 @@
+fecha,cafeteria_id,clima,clima_pronosticado
+2024-10-01,Ade_c1,frío extremo,frío extremo
+2024-10-01,Ade_c2,parcialmente nublado,parcialmente nublado
+2024-10-01,Ade_c3,frío extremo,frío extremo
+2024-10-01,Ade_c4,tormenta,tormenta
+2024-10-01,Bri_c1,tormenta,tormenta
+2024-10-01,Bri_c10,lluvia,lluvia
+2024-10-01,Bri_c2,calor extremo,calor extremo
+2024-10-01,Bri_c3,soleado,soleado
+2024-10-01,Bri_c4,soleado,soleado
+2024-10-01,Bri_c5,soleado,soleado
+2024-10-01,Bri_c6,frío extremo,frío extremo
+2024-10-01,Bri_c7,soleado,soleado
+2024-10-01,Bri_c8,soleado,soleado
+2024-10-01,Bri_c9,calor extremo,calor extremo
+2024-10-01,Cai_c1,nublado,nublado
+2024-10-01,Cai_c2,calor extremo,calor extremo
+2024-10-01,Cai_c3,calor extremo,calor extremo
+2024-10-01,Cai_c4,frío extremo,frío extremo
+2024-10-01,Cai_c5,nublado,nublado
+2024-10-01,Cai_c6,nublado,nublado
+2024-10-01,Can_c1,soleado,soleado
+2024-10-01,Can_c2,soleado,soleado
+2024-10-01,Can_c3,nublado,nublado
+2024-10-01,Dar_c1,frío extremo,viento fuerte
+2024-10-01,Dar_c2,frío extremo,frío extremo
+2024-10-01,Dar_c3,soleado,soleado
+2024-10-01,Gol_c1,soleado,soleado
+2024-10-01,Gol_c2,nublado,nublado
+2024-10-01,Gol_c3,tormenta,tormenta
+2024-10-01,Gol_c4,soleado,soleado
+2024-10-01,Gol_c5,frío extremo,frío extremo
+2024-10-01,Gol_c6,lluvia,lluvia
+2024-10-01,Hob_c1,soleado,soleado
+2024-10-01,Hob_c2,tormenta,tormenta
+2024-10-01,Hob_c3,frío extremo,frío extremo
+2024-10-01,Hob_c4,parcialmente nublado,parcialmente nublado
+2024-10-01,Mel_c1,lluvia,lluvia
+2024-10-01,Mel_c10,parcialmente nublado,parcialmente nublado
+2024-10-01,Mel_c11,soleado,soleado
+2024-10-01,Mel_c12,soleado,soleado
+2024-10-01,Mel_c13,frío extremo,frío extremo
+2024-10-01,Mel_c14,viento fuerte,viento fuerte
+2024-10-01,Mel_c15,frío extremo,frío extremo
+2024-10-01,Mel_c2,viento fuerte,nublado
+2024-10-01,Mel_c3,frío extremo,frío extremo
+2024-10-01,Mel_c4,lluvia,lluvia
+2024-10-01,Mel_c5,soleado,soleado
+2024-10-01,Mel_c6,frío extremo,soleado
+2024-10-01,Mel_c7,parcialmente nublado,parcialmente nublado
+2024-10-01,Mel_c8,soleado,frío extremo
+2024-10-01,Mel_c9,parcialmente nublado,parcialmente nublado
+2024-10-01,Per_c1,soleado,soleado
+2024-10-01,Per_c10,viento fuerte,viento fuerte
+2024-10-01,Per_c2,viento fuerte,viento fuerte
+2024-10-01,Per_c3,parcialmente nublado,parcialmente nublado
+2024-10-01,Per_c4,viento fuerte,viento fuerte
+2024-10-01,Per_c5,calor extremo,parcialmente nublado
+2024-10-01,Per_c6,frío extremo,frío extremo
+2024-10-01,Per_c7,soleado,tormenta
+2024-10-01,Per_c8,frío extremo,parcialmente nublado
+2024-10-01,Per_c9,parcialmente nublado,parcialmente nublado
+2024-10-01,Syd_c1,parcialmente nublado,soleado
+2024-10-01,Syd_c10,parcialmente nublado,parcialmente nublado
+2024-10-01,Syd_c11,parcialmente nublado,calor extremo
+2024-10-01,Syd_c12,viento fuerte,calor extremo
+2024-10-01,Syd_c13,lluvia,lluvia
+2024-10-01,Syd_c14,calor extremo,calor extremo
+2024-10-01,Syd_c15,nublado,nublado
+2024-10-01,Syd_c2,soleado,soleado
+2024-10-01,Syd_c3,nublado,nublado
+2024-10-01,Syd_c4,parcialmente nublado,parcialmente nublado
+2024-10-01,Syd_c5,nublado,nublado
+2024-10-01,Syd_c6,viento fuerte,viento fuerte
+2024-10-01,Syd_c7,soleado,soleado
+2024-10-01,Syd_c8,soleado,soleado
+2024-10-01,Syd_c9,nublado,nublado
+2024-10-02,Ade_c1,parcialmente nublado,parcialmente nublado
+2024-10-02,Ade_c2,viento fuerte,viento fuerte
+2024-10-02,Ade_c3,soleado,soleado
+2024-10-02,Ade_c4,tormenta,tormenta
+2024-10-02,Bri_c1,calor extremo,calor extremo
+2024-10-02,Bri_c10,viento fuerte,viento fuerte
+2024-10-02,Bri_c2,frío extremo,frío extremo
+2024-10-02,Bri_c3,parcialmente nublado,parcialmente nublado
+2024-10-02,Bri_c4,viento fuerte,viento fuerte
+2024-10-02,Bri_c5,nublado,nublado
+2024-10-02,Bri_c6,lluvia,lluvia
+2024-10-02,Bri_c7,lluvia,lluvia
+2024-10-02,Bri_c8,nublado,nublado
+2024-10-02,Bri_c9,frío extremo,frío extremo
+2024-10-02,Cai_c1,soleado,viento fuerte
+2024-10-02,Cai_c2,frío extremo,frío extremo
+2024-10-02,Cai_c3,frío extremo,frío extremo
+2024-10-02,Cai_c4,parcialmente nublado,parcialmente nublado
+2024-10-02,Cai_c5,nublado,nublado
+2024-10-02,Cai_c6,nublado,nublado
+2024-10-02,Can_c1,soleado,soleado
+2024-10-02,Can_c2,frío extremo,frío extremo
+2024-10-02,Can_c3,tormenta,tormenta
+2024-10-02,Dar_c1,nublado,nublado
+2024-10-02,Dar_c2,calor extremo,calor extremo
+2024-10-02,Dar_c3,lluvia,lluvia
+2024-10-02,Gol_c1,frío extremo,frío extremo
+2024-10-02,Gol_c2,lluvia,lluvia
+2024-10-02,Gol_c3,parcialmente nublado,parcialmente nublado
+2024-10-02,Gol_c4,soleado,soleado
+2024-10-02,Gol_c5,tormenta,tormenta
+2024-10-02,Gol_c6,parcialmente nublado,parcialmente nublado
+2024-10-02,Hob_c1,viento fuerte,viento fuerte
+2024-10-02,Hob_c2,soleado,soleado
+2024-10-02,Hob_c3,nublado,nublado
+2024-10-02,Hob_c4,viento fuerte,nublado
+2024-10-02,Mel_c1,frío extremo,frío extremo
+2024-10-02,Mel_c10,frío extremo,frío extremo
+2024-10-02,Mel_c11,frío extremo,frío extremo
+2024-10-02,Mel_c12,viento fuerte,viento fuerte
+2024-10-02,Mel_c13,nublado,nublado
+2024-10-02,Mel_c14,frío extremo,frío extremo
+2024-10-02,Mel_c15,lluvia,lluvia
+2024-10-02,Mel_c2,frío extremo,frío extremo
+2024-10-02,Mel_c3,lluvia,lluvia
+2024-10-02,Mel_c4,nublado,nublado
+2024-10-02,Mel_c5,nublado,nublado
+2024-10-02,Mel_c6,calor extremo,calor extremo
+2024-10-02,Mel_c7,viento fuerte,viento fuerte
+2024-10-02,Mel_c8,viento fuerte,frío extremo
+2024-10-02,Mel_c9,parcialmente nublado,parcialmente nublado
+2024-10-02,Per_c1,frío extremo,frío extremo
+2024-10-02,Per_c10,nublado,nublado
+2024-10-02,Per_c2,parcialmente nublado,parcialmente nublado
+2024-10-02,Per_c3,soleado,soleado
+2024-10-02,Per_c4,frío extremo,frío extremo
+2024-10-02,Per_c5,lluvia,lluvia
+2024-10-02,Per_c6,lluvia,lluvia
+2024-10-02,Per_c7,soleado,soleado
+2024-10-02,Per_c8,soleado,soleado
+2024-10-02,Per_c9,tormenta,tormenta
+2024-10-02,Syd_c1,frío extremo,frío extremo
+2024-10-02,Syd_c10,lluvia,lluvia
+2024-10-02,Syd_c11,frío extremo,frío extremo
+2024-10-02,Syd_c12,frío extremo,frío extremo
+2024-10-02,Syd_c13,soleado,soleado
+2024-10-02,Syd_c14,nublado,nublado
+2024-10-02,Syd_c15,nublado,nublado
+2024-10-02,Syd_c2,viento fuerte,viento fuerte
+2024-10-02,Syd_c3,calor extremo,calor extremo
+2024-10-02,Syd_c4,lluvia,lluvia
+2024-10-02,Syd_c5,nublado,nublado
+2024-10-02,Syd_c6,parcialmente nublado,parcialmente nublado
+2024-10-02,Syd_c7,calor extremo,calor extremo
+2024-10-02,Syd_c8,nublado,nublado
+2024-10-02,Syd_c9,soleado,soleado
+2024-10-03,Ade_c1,parcialmente nublado,parcialmente nublado
+2024-10-03,Ade_c2,nublado,nublado
+2024-10-03,Ade_c3,lluvia,lluvia
+2024-10-03,Ade_c4,parcialmente nublado,viento fuerte
+2024-10-03,Bri_c1,nublado,nublado
+2024-10-03,Bri_c10,calor extremo,calor extremo
+2024-10-03,Bri_c2,frío extremo,frío extremo
+2024-10-03,Bri_c3,nublado,nublado
+2024-10-03,Bri_c4,soleado,soleado
+2024-10-03,Bri_c5,parcialmente nublado,parcialmente nublado
+2024-10-03,Bri_c6,nublado,nublado
+2024-10-03,Bri_c7,calor extremo,calor extremo
+2024-10-03,Bri_c8,lluvia,lluvia
+2024-10-03,Bri_c9,soleado,soleado
+2024-10-03,Cai_c1,viento fuerte,viento fuerte
+2024-10-03,Cai_c2,frío extremo,frío extremo
+2024-10-03,Cai_c3,frío extremo,frío extremo
+2024-10-03,Cai_c4,parcialmente nublado,parcialmente nublado
+2024-10-03,Cai_c5,soleado,soleado
+2024-10-03,Cai_c6,soleado,soleado
+2024-10-03,Can_c1,parcialmente nublado,parcialmente nublado
+2024-10-03,Can_c2,frío extremo,frío extremo
+2024-10-03,Can_c3,calor extremo,calor extremo
+2024-10-03,Dar_c1,soleado,soleado
+2024-10-03,Dar_c2,lluvia,lluvia
+2024-10-03,Dar_c3,nublado,nublado
+2024-10-03,Gol_c1,soleado,soleado
+2024-10-03,Gol_c2,nublado,nublado
+2024-10-03,Gol_c3,lluvia,lluvia
+2024-10-03,Gol_c4,parcialmente nublado,parcialmente nublado
+2024-10-03,Gol_c5,calor extremo,calor extremo
+2024-10-03,Gol_c6,soleado,soleado
+2024-10-03,Hob_c1,soleado,soleado
+2024-10-03,Hob_c2,tormenta,tormenta
+2024-10-03,Hob_c3,nublado,nublado
+2024-10-03,Hob_c4,lluvia,lluvia
+2024-10-03,Mel_c1,parcialmente nublado,parcialmente nublado
+2024-10-03,Mel_c10,soleado,soleado
+2024-10-03,Mel_c11,soleado,soleado
+2024-10-03,Mel_c12,calor extremo,nublado
+2024-10-03,Mel_c13,nublado,nublado
+2024-10-03,Mel_c14,parcialmente nublado,parcialmente nublado
+2024-10-03,Mel_c15,calor extremo,calor extremo
+2024-10-03,Mel_c2,viento fuerte,viento fuerte
+2024-10-03,Mel_c3,lluvia,lluvia
+2024-10-03,Mel_c4,nublado,nublado
+2024-10-03,Mel_c5,tormenta,tormenta
+2024-10-03,Mel_c6,frío extremo,frío extremo
+2024-10-03,Mel_c7,lluvia,lluvia
+2024-10-03,Mel_c8,nublado,nublado
+2024-10-03,Mel_c9,soleado,soleado
+2024-10-03,Per_c1,frío extremo,frío extremo
+2024-10-03,Per_c10,parcialmente nublado,parcialmente nublado
+2024-10-03,Per_c2,parcialmente nublado,parcialmente nublado
+2024-10-03,Per_c3,tormenta,tormenta
+2024-10-03,Per_c4,soleado,soleado
+2024-10-03,Per_c5,frío extremo,frío extremo
+2024-10-03,Per_c6,parcialmente nublado,parcialmente nublado
+2024-10-03,Per_c7,lluvia,lluvia
+2024-10-03,Per_c8,calor extremo,calor extremo
+2024-10-03,Per_c9,lluvia,lluvia
+2024-10-03,Syd_c1,parcialmente nublado,parcialmente nublado
+2024-10-03,Syd_c10,viento fuerte,soleado
+2024-10-03,Syd_c11,frío extremo,soleado
+2024-10-03,Syd_c12,lluvia,frío extremo
+2024-10-03,Syd_c13,viento fuerte,viento fuerte
+2024-10-03,Syd_c14,frío extremo,frío extremo
+2024-10-03,Syd_c15,tormenta,tormenta
+2024-10-03,Syd_c2,soleado,soleado
+2024-10-03,Syd_c3,tormenta,tormenta
+2024-10-03,Syd_c4,frío extremo,frío extremo
+2024-10-03,Syd_c5,calor extremo,calor extremo
+2024-10-03,Syd_c6,nublado,nublado
+2024-10-03,Syd_c7,frío extremo,frío extremo
+2024-10-03,Syd_c8,parcialmente nublado,parcialmente nublado
+2024-10-03,Syd_c9,frío extremo,frío extremo
+2024-10-04,Ade_c1,nublado,viento fuerte
+2024-10-04,Ade_c2,tormenta,tormenta
+2024-10-04,Ade_c3,parcialmente nublado,parcialmente nublado
+2024-10-04,Ade_c4,calor extremo,calor extremo
+2024-10-04,Bri_c1,soleado,soleado
+2024-10-04,Bri_c10,lluvia,lluvia
+2024-10-04,Bri_c2,calor extremo,calor extremo
+2024-10-04,Bri_c3,nublado,nublado
+2024-10-04,Bri_c4,nublado,nublado
+2024-10-04,Bri_c5,viento fuerte,viento fuerte
+2024-10-04,Bri_c6,calor extremo,calor extremo
+2024-10-04,Bri_c7,nublado,nublado
+2024-10-04,Bri_c8,calor extremo,calor extremo
+2024-10-04,Bri_c9,lluvia,lluvia
+2024-10-04,Cai_c1,calor extremo,calor extremo
+2024-10-04,Cai_c2,soleado,soleado
+2024-10-04,Cai_c3,lluvia,lluvia
+2024-10-04,Cai_c4,soleado,soleado
+2024-10-04,Cai_c5,viento fuerte,viento fuerte
+2024-10-04,Cai_c6,calor extremo,calor extremo
+2024-10-04,Can_c1,frío extremo,frío extremo
+2024-10-04,Can_c2,soleado,soleado
+2024-10-04,Can_c3,parcialmente nublado,parcialmente nublado
+2024-10-04,Dar_c1,soleado,soleado
+2024-10-04,Dar_c2,soleado,soleado
+2024-10-04,Dar_c3,soleado,soleado
+2024-10-04,Gol_c1,lluvia,lluvia
+2024-10-04,Gol_c2,soleado,soleado
+2024-10-04,Gol_c3,frío extremo,frío extremo
+2024-10-04,Gol_c4,lluvia,lluvia
+2024-10-04,Gol_c5,parcialmente nublado,parcialmente nublado
+2024-10-04,Gol_c6,nublado,nublado
+2024-10-04,Hob_c1,viento fuerte,viento fuerte
+2024-10-04,Hob_c2,frío extremo,frío extremo
+2024-10-04,Hob_c3,soleado,soleado
+2024-10-04,Hob_c4,nublado,nublado
+2024-10-04,Mel_c1,nublado,nublado
+2024-10-04,Mel_c10,calor extremo,calor extremo
+2024-10-04,Mel_c11,soleado,lluvia
+2024-10-04,Mel_c12,calor extremo,calor extremo
+2024-10-04,Mel_c13,frío extremo,frío extremo
+2024-10-04,Mel_c14,soleado,soleado
+2024-10-04,Mel_c15,calor extremo,calor extremo
+2024-10-04,Mel_c2,calor extremo,calor extremo
+2024-10-04,Mel_c3,nublado,nublado
+2024-10-04,Mel_c4,viento fuerte,viento fuerte
+2024-10-04,Mel_c5,calor extremo,calor extremo
+2024-10-04,Mel_c6,nublado,nublado
+2024-10-04,Mel_c7,soleado,soleado
+2024-10-04,Mel_c8,lluvia,lluvia
+2024-10-04,Mel_c9,soleado,soleado
+2024-10-04,Per_c1,viento fuerte,viento fuerte
+2024-10-04,Per_c10,nublado,nublado
+2024-10-04,Per_c2,parcialmente nublado,parcialmente nublado
+2024-10-04,Per_c3,lluvia,lluvia
+2024-10-04,Per_c4,soleado,soleado
+2024-10-04,Per_c5,parcialmente nublado,parcialmente nublado
+2024-10-04,Per_c6,nublado,nublado
+2024-10-04,Per_c7,viento fuerte,viento fuerte
+2024-10-04,Per_c8,parcialmente nublado,parcialmente nublado
+2024-10-04,Per_c9,lluvia,lluvia
+2024-10-04,Syd_c1,soleado,soleado
+2024-10-04,Syd_c10,soleado,soleado
+2024-10-04,Syd_c11,soleado,soleado
+2024-10-04,Syd_c12,calor extremo,calor extremo
+2024-10-04,Syd_c13,lluvia,lluvia
+2024-10-04,Syd_c14,viento fuerte,viento fuerte
+2024-10-04,Syd_c15,parcialmente nublado,parcialmente nublado
+2024-10-04,Syd_c2,nublado,nublado
+2024-10-04,Syd_c3,soleado,soleado
+2024-10-04,Syd_c4,calor extremo,calor extremo
+2024-10-04,Syd_c5,parcialmente nublado,parcialmente nublado
+2024-10-04,Syd_c6,nublado,nublado
+2024-10-04,Syd_c7,soleado,soleado
+2024-10-04,Syd_c8,frío extremo,frío extremo
+2024-10-04,Syd_c9,tormenta,tormenta
+2024-10-05,Ade_c1,calor extremo,calor extremo
+2024-10-05,Ade_c2,lluvia,lluvia
+2024-10-05,Ade_c3,nublado,nublado
+2024-10-05,Ade_c4,frío extremo,frío extremo
+2024-10-05,Bri_c1,parcialmente nublado,parcialmente nublado
+2024-10-05,Bri_c10,calor extremo,calor extremo
+2024-10-05,Bri_c2,frío extremo,frío extremo
+2024-10-05,Bri_c3,nublado,nublado
+2024-10-05,Bri_c4,lluvia,lluvia
+2024-10-05,Bri_c5,nublado,nublado
+2024-10-05,Bri_c6,frío extremo,frío extremo
+2024-10-05,Bri_c7,parcialmente nublado,parcialmente nublado
+2024-10-05,Bri_c8,frío extremo,frío extremo
+2024-10-05,Bri_c9,lluvia,lluvia
+2024-10-05,Cai_c1,viento fuerte,calor extremo
+2024-10-05,Cai_c2,nublado,nublado
+2024-10-05,Cai_c3,soleado,soleado
+2024-10-05,Cai_c4,soleado,soleado
+2024-10-05,Cai_c5,soleado,soleado
+2024-10-05,Cai_c6,soleado,soleado
+2024-10-05,Can_c1,viento fuerte,viento fuerte
+2024-10-05,Can_c2,lluvia,lluvia
+2024-10-05,Can_c3,nublado,nublado
+2024-10-05,Dar_c1,parcialmente nublado,parcialmente nublado
+2024-10-05,Dar_c2,calor extremo,calor extremo
+2024-10-05,Dar_c3,soleado,soleado
+2024-10-05,Gol_c1,parcialmente nublado,parcialmente nublado
+2024-10-05,Gol_c2,viento fuerte,viento fuerte
+2024-10-05,Gol_c3,soleado,parcialmente nublado
+2024-10-05,Gol_c4,viento fuerte,viento fuerte
+2024-10-05,Gol_c5,nublado,nublado
+2024-10-05,Gol_c6,soleado,soleado
+2024-10-05,Hob_c1,frío extremo,frío extremo
+2024-10-05,Hob_c2,nublado,nublado
+2024-10-05,Hob_c3,soleado,soleado
+2024-10-05,Hob_c4,parcialmente nublado,parcialmente nublado
+2024-10-05,Mel_c1,calor extremo,lluvia
+2024-10-05,Mel_c10,parcialmente nublado,parcialmente nublado
+2024-10-05,Mel_c11,calor extremo,calor extremo
+2024-10-05,Mel_c12,soleado,soleado
+2024-10-05,Mel_c13,nublado,nublado
+2024-10-05,Mel_c14,frío extremo,frío extremo
+2024-10-05,Mel_c15,nublado,nublado
+2024-10-05,Mel_c2,viento fuerte,viento fuerte
+2024-10-05,Mel_c3,soleado,soleado
+2024-10-05,Mel_c4,frío extremo,frío extremo
+2024-10-05,Mel_c5,frío extremo,frío extremo
+2024-10-05,Mel_c6,soleado,soleado
+2024-10-05,Mel_c7,frío extremo,frío extremo
+2024-10-05,Mel_c8,tormenta,tormenta
+2024-10-05,Mel_c9,nublado,nublado
+2024-10-05,Per_c1,frío extremo,frío extremo
+2024-10-05,Per_c10,frío extremo,frío extremo
+2024-10-05,Per_c2,nublado,nublado
+2024-10-05,Per_c3,soleado,soleado
+2024-10-05,Per_c4,soleado,soleado
+2024-10-05,Per_c5,soleado,soleado
+2024-10-05,Per_c6,calor extremo,calor extremo
+2024-10-05,Per_c7,soleado,soleado
+2024-10-05,Per_c8,calor extremo,calor extremo
+2024-10-05,Per_c9,frío extremo,frío extremo
+2024-10-05,Syd_c1,viento fuerte,viento fuerte
+2024-10-05,Syd_c10,nublado,nublado
+2024-10-05,Syd_c11,soleado,soleado
+2024-10-05,Syd_c12,nublado,nublado
+2024-10-05,Syd_c13,nublado,nublado
+2024-10-05,Syd_c14,viento fuerte,viento fuerte
+2024-10-05,Syd_c15,nublado,nublado
+2024-10-05,Syd_c2,nublado,nublado
+2024-10-05,Syd_c3,viento fuerte,viento fuerte
+2024-10-05,Syd_c4,tormenta,tormenta
+2024-10-05,Syd_c5,tormenta,tormenta
+2024-10-05,Syd_c6,nublado,nublado
+2024-10-05,Syd_c7,nublado,nublado
+2024-10-05,Syd_c8,soleado,soleado
+2024-10-05,Syd_c9,lluvia,lluvia
+2024-10-06,Ade_c1,nublado,nublado
+2024-10-06,Ade_c2,soleado,soleado
+2024-10-06,Ade_c3,calor extremo,calor extremo
+2024-10-06,Ade_c4,soleado,soleado
+2024-10-06,Bri_c1,parcialmente nublado,parcialmente nublado
+2024-10-06,Bri_c10,frío extremo,frío extremo
+2024-10-06,Bri_c2,calor extremo,calor extremo
+2024-10-06,Bri_c3,parcialmente nublado,parcialmente nublado
+2024-10-06,Bri_c4,frío extremo,frío extremo
+2024-10-06,Bri_c5,frío extremo,frío extremo
+2024-10-06,Bri_c6,soleado,soleado
+2024-10-06,Bri_c7,calor extremo,calor extremo
+2024-10-06,Bri_c8,frío extremo,soleado
+2024-10-06,Bri_c9,nublado,nublado
+2024-10-06,Cai_c1,viento fuerte,viento fuerte
+2024-10-06,Cai_c2,nublado,nublado
+2024-10-06,Cai_c3,soleado,soleado
+2024-10-06,Cai_c4,calor extremo,calor extremo
+2024-10-06,Cai_c5,viento fuerte,viento fuerte
+2024-10-06,Cai_c6,soleado,soleado
+2024-10-06,Can_c1,soleado,soleado
+2024-10-06,Can_c2,frío extremo,frío extremo
+2024-10-06,Can_c3,parcialmente nublado,parcialmente nublado
+2024-10-06,Dar_c1,nublado,nublado
+2024-10-06,Dar_c2,lluvia,frío extremo
+2024-10-06,Dar_c3,soleado,soleado
+2024-10-06,Gol_c1,viento fuerte,viento fuerte
+2024-10-06,Gol_c2,calor extremo,calor extremo
+2024-10-06,Gol_c3,parcialmente nublado,parcialmente nublado
+2024-10-06,Gol_c4,frío extremo,frío extremo
+2024-10-06,Gol_c5,soleado,soleado
+2024-10-06,Gol_c6,frío extremo,frío extremo
+2024-10-06,Hob_c1,parcialmente nublado,parcialmente nublado
+2024-10-06,Hob_c2,viento fuerte,viento fuerte
+2024-10-06,Hob_c3,lluvia,lluvia
+2024-10-06,Hob_c4,nublado,nublado
+2024-10-06,Mel_c1,nublado,nublado
+2024-10-06,Mel_c10,frío extremo,frío extremo
+2024-10-06,Mel_c11,parcialmente nublado,parcialmente nublado
+2024-10-06,Mel_c12,viento fuerte,viento fuerte
+2024-10-06,Mel_c13,tormenta,tormenta
+2024-10-06,Mel_c14,parcialmente nublado,soleado
+2024-10-06,Mel_c15,soleado,soleado
+2024-10-06,Mel_c2,soleado,soleado
+2024-10-06,Mel_c3,soleado,soleado
+2024-10-06,Mel_c4,lluvia,lluvia
+2024-10-06,Mel_c5,soleado,soleado
+2024-10-06,Mel_c6,soleado,soleado
+2024-10-06,Mel_c7,frío extremo,parcialmente nublado
+2024-10-06,Mel_c8,nublado,nublado
+2024-10-06,Mel_c9,soleado,soleado
+2024-10-06,Per_c1,frío extremo,frío extremo
+2024-10-06,Per_c10,parcialmente nublado,parcialmente nublado
+2024-10-06,Per_c2,viento fuerte,viento fuerte
+2024-10-06,Per_c3,frío extremo,frío extremo
+2024-10-06,Per_c4,soleado,soleado
+2024-10-06,Per_c5,soleado,soleado
+2024-10-06,Per_c6,viento fuerte,viento fuerte
+2024-10-06,Per_c7,lluvia,lluvia
+2024-10-06,Per_c8,viento fuerte,viento fuerte
+2024-10-06,Per_c9,parcialmente nublado,parcialmente nublado
+2024-10-06,Syd_c1,viento fuerte,viento fuerte
+2024-10-06,Syd_c10,lluvia,lluvia
+2024-10-06,Syd_c11,frío extremo,frío extremo
+2024-10-06,Syd_c12,nublado,nublado
+2024-10-06,Syd_c13,soleado,soleado
+2024-10-06,Syd_c14,nublado,nublado
+2024-10-06,Syd_c15,parcialmente nublado,parcialmente nublado
+2024-10-06,Syd_c2,calor extremo,calor extremo
+2024-10-06,Syd_c3,parcialmente nublado,parcialmente nublado
+2024-10-06,Syd_c4,frío extremo,frío extremo
+2024-10-06,Syd_c5,lluvia,lluvia
+2024-10-06,Syd_c6,parcialmente nublado,parcialmente nublado
+2024-10-06,Syd_c7,nublado,nublado
+2024-10-06,Syd_c8,calor extremo,calor extremo
+2024-10-06,Syd_c9,calor extremo,calor extremo
+2024-10-07,Ade_c1,calor extremo,viento fuerte
+2024-10-07,Ade_c2,soleado,soleado
+2024-10-07,Ade_c3,frío extremo,frío extremo
+2024-10-07,Ade_c4,frío extremo,frío extremo
+2024-10-07,Bri_c1,lluvia,lluvia
+2024-10-07,Bri_c10,frío extremo,frío extremo
+2024-10-07,Bri_c2,tormenta,tormenta
+2024-10-07,Bri_c3,soleado,soleado
+2024-10-07,Bri_c4,lluvia,lluvia
+2024-10-07,Bri_c5,nublado,viento fuerte
+2024-10-07,Bri_c6,tormenta,tormenta
+2024-10-07,Bri_c7,viento fuerte,viento fuerte
+2024-10-07,Bri_c8,soleado,soleado
+2024-10-07,Bri_c9,viento fuerte,viento fuerte
+2024-10-07,Cai_c1,viento fuerte,viento fuerte
+2024-10-07,Cai_c2,calor extremo,calor extremo
+2024-10-07,Cai_c3,lluvia,lluvia
+2024-10-07,Cai_c4,parcialmente nublado,parcialmente nublado
+2024-10-07,Cai_c5,nublado,nublado
+2024-10-07,Cai_c6,frío extremo,frío extremo
+2024-10-07,Can_c1,soleado,soleado
+2024-10-07,Can_c2,parcialmente nublado,parcialmente nublado
+2024-10-07,Can_c3,parcialmente nublado,parcialmente nublado
+2024-10-07,Dar_c1,nublado,nublado
+2024-10-07,Dar_c2,frío extremo,frío extremo
+2024-10-07,Dar_c3,nublado,nublado
+2024-10-07,Gol_c1,frío extremo,frío extremo
+2024-10-07,Gol_c2,nublado,nublado
+2024-10-07,Gol_c3,soleado,soleado
+2024-10-07,Gol_c4,soleado,soleado
+2024-10-07,Gol_c5,calor extremo,calor extremo
+2024-10-07,Gol_c6,parcialmente nublado,parcialmente nublado
+2024-10-07,Hob_c1,lluvia,nublado
+2024-10-07,Hob_c2,frío extremo,frío extremo
+2024-10-07,Hob_c3,soleado,lluvia
+2024-10-07,Hob_c4,viento fuerte,viento fuerte
+2024-10-07,Mel_c1,nublado,nublado
+2024-10-07,Mel_c10,viento fuerte,viento fuerte
+2024-10-07,Mel_c11,frío extremo,frío extremo
+2024-10-07,Mel_c12,soleado,soleado
+2024-10-07,Mel_c13,soleado,soleado
+2024-10-07,Mel_c14,frío extremo,lluvia
+2024-10-07,Mel_c15,parcialmente nublado,parcialmente nublado
+2024-10-07,Mel_c2,tormenta,tormenta
+2024-10-07,Mel_c3,soleado,soleado
+2024-10-07,Mel_c4,soleado,soleado
+2024-10-07,Mel_c5,viento fuerte,viento fuerte
+2024-10-07,Mel_c6,viento fuerte,parcialmente nublado
+2024-10-07,Mel_c7,nublado,nublado
+2024-10-07,Mel_c8,viento fuerte,viento fuerte
+2024-10-07,Mel_c9,parcialmente nublado,parcialmente nublado
+2024-10-07,Per_c1,calor extremo,calor extremo
+2024-10-07,Per_c10,tormenta,tormenta
+2024-10-07,Per_c2,parcialmente nublado,parcialmente nublado
+2024-10-07,Per_c3,viento fuerte,viento fuerte
+2024-10-07,Per_c4,calor extremo,calor extremo
+2024-10-07,Per_c5,lluvia,lluvia
+2024-10-07,Per_c6,soleado,soleado
+2024-10-07,Per_c7,calor extremo,calor extremo
+2024-10-07,Per_c8,lluvia,lluvia
+2024-10-07,Per_c9,tormenta,tormenta
+2024-10-07,Syd_c1,soleado,soleado
+2024-10-07,Syd_c10,viento fuerte,viento fuerte
+2024-10-07,Syd_c11,soleado,soleado
+2024-10-07,Syd_c12,nublado,nublado
+2024-10-07,Syd_c13,soleado,soleado
+2024-10-07,Syd_c14,soleado,soleado
+2024-10-07,Syd_c15,frío extremo,frío extremo
+2024-10-07,Syd_c2,nublado,nublado
+2024-10-07,Syd_c3,calor extremo,calor extremo
+2024-10-07,Syd_c4,viento fuerte,viento fuerte
+2024-10-07,Syd_c5,calor extremo,calor extremo
+2024-10-07,Syd_c6,frío extremo,frío extremo
+2024-10-07,Syd_c7,parcialmente nublado,parcialmente nublado
+2024-10-07,Syd_c8,parcialmente nublado,frío extremo
+2024-10-07,Syd_c9,lluvia,lluvia
+2024-10-08,Ade_c1,nublado,nublado
+2024-10-08,Ade_c2,nublado,nublado
+2024-10-08,Ade_c3,parcialmente nublado,parcialmente nublado
+2024-10-08,Ade_c4,viento fuerte,viento fuerte
+2024-10-08,Bri_c1,nublado,nublado
+2024-10-08,Bri_c10,viento fuerte,viento fuerte
+2024-10-08,Bri_c2,calor extremo,calor extremo
+2024-10-08,Bri_c3,lluvia,lluvia
+2024-10-08,Bri_c4,nublado,nublado
+2024-10-08,Bri_c5,parcialmente nublado,parcialmente nublado
+2024-10-08,Bri_c6,frío extremo,frío extremo
+2024-10-08,Bri_c7,parcialmente nublado,parcialmente nublado
+2024-10-08,Bri_c8,soleado,soleado
+2024-10-08,Bri_c9,calor extremo,calor extremo
+2024-10-08,Cai_c1,soleado,soleado
+2024-10-08,Cai_c2,viento fuerte,viento fuerte
+2024-10-08,Cai_c3,nublado,viento fuerte
+2024-10-08,Cai_c4,lluvia,calor extremo
+2024-10-08,Cai_c5,soleado,soleado
+2024-10-08,Cai_c6,soleado,soleado
+2024-10-08,Can_c1,parcialmente nublado,parcialmente nublado
+2024-10-08,Can_c2,calor extremo,calor extremo
+2024-10-08,Can_c3,calor extremo,calor extremo
+2024-10-08,Dar_c1,viento fuerte,viento fuerte
+2024-10-08,Dar_c2,frío extremo,lluvia
+2024-10-08,Dar_c3,nublado,nublado
+2024-10-08,Gol_c1,parcialmente nublado,parcialmente nublado
+2024-10-08,Gol_c2,lluvia,lluvia
+2024-10-08,Gol_c3,soleado,viento fuerte
+2024-10-08,Gol_c4,parcialmente nublado,parcialmente nublado
+2024-10-08,Gol_c5,lluvia,lluvia
+2024-10-08,Gol_c6,lluvia,lluvia
+2024-10-08,Hob_c1,nublado,nublado
+2024-10-08,Hob_c2,frío extremo,frío extremo
+2024-10-08,Hob_c3,nublado,frío extremo
+2024-10-08,Hob_c4,frío extremo,frío extremo
+2024-10-08,Mel_c1,viento fuerte,viento fuerte
+2024-10-08,Mel_c10,nublado,nublado
+2024-10-08,Mel_c11,lluvia,lluvia
+2024-10-08,Mel_c12,viento fuerte,viento fuerte
+2024-10-08,Mel_c13,frío extremo,nublado
+2024-10-08,Mel_c14,nublado,nublado
+2024-10-08,Mel_c15,soleado,lluvia
+2024-10-08,Mel_c2,soleado,soleado
+2024-10-08,Mel_c3,nublado,nublado
+2024-10-08,Mel_c4,viento fuerte,viento fuerte
+2024-10-08,Mel_c5,viento fuerte,viento fuerte
+2024-10-08,Mel_c6,parcialmente nublado,lluvia
+2024-10-08,Mel_c7,tormenta,tormenta
+2024-10-08,Mel_c8,parcialmente nublado,parcialmente nublado
+2024-10-08,Mel_c9,tormenta,tormenta
+2024-10-08,Per_c1,soleado,soleado
+2024-10-08,Per_c10,parcialmente nublado,parcialmente nublado
+2024-10-08,Per_c2,soleado,soleado
+2024-10-08,Per_c3,viento fuerte,viento fuerte
+2024-10-08,Per_c4,tormenta,tormenta
+2024-10-08,Per_c5,nublado,nublado
+2024-10-08,Per_c6,parcialmente nublado,tormenta
+2024-10-08,Per_c7,viento fuerte,viento fuerte
+2024-10-08,Per_c8,viento fuerte,viento fuerte
+2024-10-08,Per_c9,viento fuerte,viento fuerte
+2024-10-08,Syd_c1,soleado,soleado
+2024-10-08,Syd_c10,soleado,soleado
+2024-10-08,Syd_c11,frío extremo,frío extremo
+2024-10-08,Syd_c12,frío extremo,frío extremo
+2024-10-08,Syd_c13,lluvia,lluvia
+2024-10-08,Syd_c14,lluvia,parcialmente nublado
+2024-10-08,Syd_c15,frío extremo,frío extremo
+2024-10-08,Syd_c2,calor extremo,calor extremo
+2024-10-08,Syd_c3,frío extremo,frío extremo
+2024-10-08,Syd_c4,frío extremo,frío extremo
+2024-10-08,Syd_c5,nublado,nublado
+2024-10-08,Syd_c6,frío extremo,frío extremo
+2024-10-08,Syd_c7,soleado,soleado
+2024-10-08,Syd_c8,soleado,soleado
+2024-10-08,Syd_c9,nublado,nublado
+2024-10-09,Ade_c1,soleado,soleado
+2024-10-09,Ade_c2,lluvia,lluvia
+2024-10-09,Ade_c3,frío extremo,frío extremo
+2024-10-09,Ade_c4,tormenta,tormenta
+2024-10-09,Bri_c1,viento fuerte,tormenta
+2024-10-09,Bri_c10,frío extremo,frío extremo
+2024-10-09,Bri_c2,calor extremo,calor extremo
+2024-10-09,Bri_c3,viento fuerte,viento fuerte
+2024-10-09,Bri_c4,viento fuerte,viento fuerte
+2024-10-09,Bri_c5,frío extremo,frío extremo
+2024-10-09,Bri_c6,nublado,nublado
+2024-10-09,Bri_c7,tormenta,tormenta
+2024-10-09,Bri_c8,soleado,soleado
+2024-10-09,Bri_c9,frío extremo,frío extremo
+2024-10-09,Cai_c1,soleado,soleado
+2024-10-09,Cai_c2,tormenta,tormenta
+2024-10-09,Cai_c3,soleado,soleado
+2024-10-09,Cai_c4,parcialmente nublado,lluvia
+2024-10-09,Cai_c5,frío extremo,frío extremo
+2024-10-09,Cai_c6,frío extremo,frío extremo
+2024-10-09,Can_c1,frío extremo,tormenta
+2024-10-09,Can_c2,parcialmente nublado,parcialmente nublado
+2024-10-09,Can_c3,soleado,soleado
+2024-10-09,Dar_c1,tormenta,tormenta
+2024-10-09,Dar_c2,calor extremo,calor extremo
+2024-10-09,Dar_c3,soleado,soleado
+2024-10-09,Gol_c1,nublado,nublado
+2024-10-09,Gol_c2,soleado,soleado
+2024-10-09,Gol_c3,viento fuerte,viento fuerte
+2024-10-09,Gol_c4,calor extremo,calor extremo
+2024-10-09,Gol_c5,calor extremo,calor extremo
+2024-10-09,Gol_c6,frío extremo,frío extremo
+2024-10-09,Hob_c1,parcialmente nublado,frío extremo
+2024-10-09,Hob_c2,nublado,nublado
+2024-10-09,Hob_c3,nublado,frío extremo
+2024-10-09,Hob_c4,nublado,viento fuerte
+2024-10-09,Mel_c1,viento fuerte,viento fuerte
+2024-10-09,Mel_c10,calor extremo,viento fuerte
+2024-10-09,Mel_c11,calor extremo,calor extremo
+2024-10-09,Mel_c12,nublado,nublado
+2024-10-09,Mel_c13,tormenta,tormenta
+2024-10-09,Mel_c14,soleado,soleado
+2024-10-09,Mel_c15,frío extremo,frío extremo
+2024-10-09,Mel_c2,calor extremo,calor extremo
+2024-10-09,Mel_c3,lluvia,lluvia
+2024-10-09,Mel_c4,soleado,soleado
+2024-10-09,Mel_c5,soleado,soleado
+2024-10-09,Mel_c6,frío extremo,frío extremo
+2024-10-09,Mel_c7,viento fuerte,viento fuerte
+2024-10-09,Mel_c8,nublado,nublado
+2024-10-09,Mel_c9,parcialmente nublado,parcialmente nublado
+2024-10-09,Per_c1,parcialmente nublado,parcialmente nublado
+2024-10-09,Per_c10,frío extremo,frío extremo
+2024-10-09,Per_c2,viento fuerte,parcialmente nublado
+2024-10-09,Per_c3,tormenta,tormenta
+2024-10-09,Per_c4,nublado,nublado
+2024-10-09,Per_c5,soleado,soleado
+2024-10-09,Per_c6,viento fuerte,tormenta
+2024-10-09,Per_c7,soleado,soleado
+2024-10-09,Per_c8,viento fuerte,viento fuerte
+2024-10-09,Per_c9,nublado,nublado
+2024-10-09,Syd_c1,soleado,soleado
+2024-10-09,Syd_c10,nublado,nublado
+2024-10-09,Syd_c11,parcialmente nublado,parcialmente nublado
+2024-10-09,Syd_c12,frío extremo,frío extremo
+2024-10-09,Syd_c13,frío extremo,nublado
+2024-10-09,Syd_c14,frío extremo,frío extremo
+2024-10-09,Syd_c15,calor extremo,calor extremo
+2024-10-09,Syd_c2,nublado,nublado
+2024-10-09,Syd_c3,viento fuerte,viento fuerte
+2024-10-09,Syd_c4,frío extremo,frío extremo
+2024-10-09,Syd_c5,parcialmente nublado,parcialmente nublado
+2024-10-09,Syd_c6,frío extremo,frío extremo
+2024-10-09,Syd_c7,frío extremo,frío extremo
+2024-10-09,Syd_c8,frío extremo,frío extremo
+2024-10-09,Syd_c9,frío extremo,frío extremo
+2024-10-10,Ade_c1,frío extremo,frío extremo
+2024-10-10,Ade_c2,nublado,nublado
+2024-10-10,Ade_c3,nublado,nublado
+2024-10-10,Ade_c4,calor extremo,calor extremo
+2024-10-10,Bri_c1,lluvia,lluvia
+2024-10-10,Bri_c10,parcialmente nublado,parcialmente nublado
+2024-10-10,Bri_c2,calor extremo,frío extremo
+2024-10-10,Bri_c3,lluvia,lluvia
+2024-10-10,Bri_c4,soleado,soleado
+2024-10-10,Bri_c5,lluvia,lluvia
+2024-10-10,Bri_c6,parcialmente nublado,parcialmente nublado
+2024-10-10,Bri_c7,frío extremo,frío extremo
+2024-10-10,Bri_c8,calor extremo,calor extremo
+2024-10-10,Bri_c9,soleado,soleado
+2024-10-10,Cai_c1,soleado,soleado
+2024-10-10,Cai_c2,lluvia,lluvia
+2024-10-10,Cai_c3,soleado,soleado
+2024-10-10,Cai_c4,viento fuerte,viento fuerte
+2024-10-10,Cai_c5,viento fuerte,viento fuerte
+2024-10-10,Cai_c6,frío extremo,viento fuerte
+2024-10-10,Can_c1,soleado,viento fuerte
+2024-10-10,Can_c2,calor extremo,calor extremo
+2024-10-10,Can_c3,soleado,soleado
+2024-10-10,Dar_c1,parcialmente nublado,parcialmente nublado
+2024-10-10,Dar_c2,calor extremo,calor extremo
+2024-10-10,Dar_c3,parcialmente nublado,parcialmente nublado
+2024-10-10,Gol_c1,parcialmente nublado,calor extremo
+2024-10-10,Gol_c2,lluvia,nublado
+2024-10-10,Gol_c3,parcialmente nublado,parcialmente nublado
+2024-10-10,Gol_c4,frío extremo,lluvia
+2024-10-10,Gol_c5,viento fuerte,viento fuerte
+2024-10-10,Gol_c6,viento fuerte,viento fuerte
+2024-10-10,Hob_c1,soleado,soleado
+2024-10-10,Hob_c2,viento fuerte,viento fuerte
+2024-10-10,Hob_c3,parcialmente nublado,parcialmente nublado
+2024-10-10,Hob_c4,soleado,soleado
+2024-10-10,Mel_c1,viento fuerte,viento fuerte
+2024-10-10,Mel_c10,lluvia,lluvia
+2024-10-10,Mel_c11,frío extremo,frío extremo
+2024-10-10,Mel_c12,viento fuerte,viento fuerte
+2024-10-10,Mel_c13,parcialmente nublado,parcialmente nublado
+2024-10-10,Mel_c14,soleado,soleado
+2024-10-10,Mel_c15,parcialmente nublado,nublado
+2024-10-10,Mel_c2,lluvia,lluvia
+2024-10-10,Mel_c3,parcialmente nublado,parcialmente nublado
+2024-10-10,Mel_c4,lluvia,tormenta
+2024-10-10,Mel_c5,soleado,soleado
+2024-10-10,Mel_c6,lluvia,lluvia
+2024-10-10,Mel_c7,parcialmente nublado,parcialmente nublado
+2024-10-10,Mel_c8,lluvia,lluvia
+2024-10-10,Mel_c9,viento fuerte,viento fuerte
+2024-10-10,Per_c1,parcialmente nublado,parcialmente nublado
+2024-10-10,Per_c10,soleado,soleado
+2024-10-10,Per_c2,frío extremo,parcialmente nublado
+2024-10-10,Per_c3,nublado,nublado
+2024-10-10,Per_c4,frío extremo,frío extremo
+2024-10-10,Per_c5,calor extremo,viento fuerte
+2024-10-10,Per_c6,parcialmente nublado,parcialmente nublado
+2024-10-10,Per_c7,calor extremo,calor extremo
+2024-10-10,Per_c8,parcialmente nublado,parcialmente nublado
+2024-10-10,Per_c9,soleado,soleado
+2024-10-10,Syd_c1,frío extremo,frío extremo
+2024-10-10,Syd_c10,lluvia,lluvia
+2024-10-10,Syd_c11,nublado,nublado
+2024-10-10,Syd_c12,parcialmente nublado,parcialmente nublado
+2024-10-10,Syd_c13,soleado,soleado
+2024-10-10,Syd_c14,parcialmente nublado,nublado
+2024-10-10,Syd_c15,frío extremo,frío extremo
+2024-10-10,Syd_c2,parcialmente nublado,parcialmente nublado
+2024-10-10,Syd_c3,nublado,nublado
+2024-10-10,Syd_c4,soleado,viento fuerte
+2024-10-10,Syd_c5,soleado,soleado
+2024-10-10,Syd_c6,parcialmente nublado,parcialmente nublado
+2024-10-10,Syd_c7,viento fuerte,viento fuerte
+2024-10-10,Syd_c8,lluvia,lluvia
+2024-10-10,Syd_c9,soleado,tormenta
+2024-10-11,Ade_c1,calor extremo,tormenta
+2024-10-11,Ade_c2,soleado,soleado
+2024-10-11,Ade_c3,lluvia,tormenta
+2024-10-11,Ade_c4,parcialmente nublado,parcialmente nublado
+2024-10-11,Bri_c1,nublado,nublado
+2024-10-11,Bri_c10,viento fuerte,viento fuerte
+2024-10-11,Bri_c2,calor extremo,calor extremo
+2024-10-11,Bri_c3,soleado,soleado
+2024-10-11,Bri_c4,parcialmente nublado,parcialmente nublado
+2024-10-11,Bri_c5,soleado,soleado
+2024-10-11,Bri_c6,soleado,soleado
+2024-10-11,Bri_c7,soleado,frío extremo
+2024-10-11,Bri_c8,frío extremo,frío extremo
+2024-10-11,Bri_c9,nublado,nublado
+2024-10-11,Cai_c1,soleado,soleado
+2024-10-11,Cai_c2,nublado,nublado
+2024-10-11,Cai_c3,frío extremo,frío extremo
+2024-10-11,Cai_c4,soleado,soleado
+2024-10-11,Cai_c5,nublado,nublado
+2024-10-11,Cai_c6,nublado,nublado
+2024-10-11,Can_c1,calor extremo,calor extremo
+2024-10-11,Can_c2,frío extremo,frío extremo
+2024-10-11,Can_c3,frío extremo,frío extremo
+2024-10-11,Dar_c1,parcialmente nublado,parcialmente nublado
+2024-10-11,Dar_c2,soleado,soleado
+2024-10-11,Dar_c3,viento fuerte,viento fuerte
+2024-10-11,Gol_c1,viento fuerte,viento fuerte
+2024-10-11,Gol_c2,frío extremo,frío extremo
+2024-10-11,Gol_c3,soleado,soleado
+2024-10-11,Gol_c4,soleado,soleado
+2024-10-11,Gol_c5,viento fuerte,viento fuerte
+2024-10-11,Gol_c6,soleado,soleado
+2024-10-11,Hob_c1,tormenta,lluvia
+2024-10-11,Hob_c2,frío extremo,lluvia
+2024-10-11,Hob_c3,nublado,nublado
+2024-10-11,Hob_c4,soleado,soleado
+2024-10-11,Mel_c1,calor extremo,calor extremo
+2024-10-11,Mel_c10,calor extremo,calor extremo
+2024-10-11,Mel_c11,frío extremo,lluvia
+2024-10-11,Mel_c12,parcialmente nublado,parcialmente nublado
+2024-10-11,Mel_c13,calor extremo,calor extremo
+2024-10-11,Mel_c14,viento fuerte,viento fuerte
+2024-10-11,Mel_c15,parcialmente nublado,parcialmente nublado
+2024-10-11,Mel_c2,lluvia,viento fuerte
+2024-10-11,Mel_c3,parcialmente nublado,parcialmente nublado
+2024-10-11,Mel_c4,soleado,calor extremo
+2024-10-11,Mel_c5,soleado,soleado
+2024-10-11,Mel_c6,viento fuerte,viento fuerte
+2024-10-11,Mel_c7,nublado,nublado
+2024-10-11,Mel_c8,lluvia,lluvia
+2024-10-11,Mel_c9,nublado,nublado
+2024-10-11,Per_c1,soleado,soleado
+2024-10-11,Per_c10,calor extremo,calor extremo
+2024-10-11,Per_c2,viento fuerte,nublado
+2024-10-11,Per_c3,viento fuerte,viento fuerte
+2024-10-11,Per_c4,soleado,soleado
+2024-10-11,Per_c5,soleado,soleado
+2024-10-11,Per_c6,lluvia,lluvia
+2024-10-11,Per_c7,frío extremo,lluvia
+2024-10-11,Per_c8,soleado,soleado
+2024-10-11,Per_c9,lluvia,lluvia
+2024-10-11,Syd_c1,lluvia,viento fuerte
+2024-10-11,Syd_c10,soleado,soleado
+2024-10-11,Syd_c11,parcialmente nublado,nublado
+2024-10-11,Syd_c12,tormenta,tormenta
+2024-10-11,Syd_c13,frío extremo,frío extremo
+2024-10-11,Syd_c14,soleado,soleado
+2024-10-11,Syd_c15,viento fuerte,calor extremo
+2024-10-11,Syd_c2,nublado,parcialmente nublado
+2024-10-11,Syd_c3,frío extremo,frío extremo
+2024-10-11,Syd_c4,viento fuerte,viento fuerte
+2024-10-11,Syd_c5,lluvia,lluvia
+2024-10-11,Syd_c6,lluvia,lluvia
+2024-10-11,Syd_c7,calor extremo,calor extremo
+2024-10-11,Syd_c8,frío extremo,frío extremo
+2024-10-11,Syd_c9,viento fuerte,viento fuerte
+2024-10-12,Ade_c1,frío extremo,frío extremo
+2024-10-12,Ade_c2,soleado,soleado
+2024-10-12,Ade_c3,lluvia,lluvia
+2024-10-12,Ade_c4,soleado,soleado
+2024-10-12,Bri_c1,calor extremo,calor extremo
+2024-10-12,Bri_c10,calor extremo,calor extremo
+2024-10-12,Bri_c2,viento fuerte,viento fuerte
+2024-10-12,Bri_c3,lluvia,frío extremo
+2024-10-12,Bri_c4,frío extremo,nublado
+2024-10-12,Bri_c5,calor extremo,calor extremo
+2024-10-12,Bri_c6,soleado,soleado
+2024-10-12,Bri_c7,soleado,parcialmente nublado
+2024-10-12,Bri_c8,parcialmente nublado,parcialmente nublado
+2024-10-12,Bri_c9,soleado,soleado
+2024-10-12,Cai_c1,tormenta,tormenta
+2024-10-12,Cai_c2,soleado,soleado
+2024-10-12,Cai_c3,nublado,nublado
+2024-10-12,Cai_c4,parcialmente nublado,nublado
+2024-10-12,Cai_c5,viento fuerte,viento fuerte
+2024-10-12,Cai_c6,soleado,soleado
+2024-10-12,Can_c1,frío extremo,frío extremo
+2024-10-12,Can_c2,calor extremo,calor extremo
+2024-10-12,Can_c3,soleado,soleado
+2024-10-12,Dar_c1,lluvia,calor extremo
+2024-10-12,Dar_c2,parcialmente nublado,parcialmente nublado
+2024-10-12,Dar_c3,soleado,soleado
+2024-10-12,Gol_c1,calor extremo,calor extremo
+2024-10-12,Gol_c2,soleado,soleado
+2024-10-12,Gol_c3,viento fuerte,soleado
+2024-10-12,Gol_c4,soleado,tormenta
+2024-10-12,Gol_c5,calor extremo,calor extremo
+2024-10-12,Gol_c6,nublado,nublado
+2024-10-12,Hob_c1,soleado,soleado
+2024-10-12,Hob_c2,calor extremo,calor extremo
+2024-10-12,Hob_c3,nublado,nublado
+2024-10-12,Hob_c4,soleado,soleado
+2024-10-12,Mel_c1,frío extremo,frío extremo
+2024-10-12,Mel_c10,calor extremo,soleado
+2024-10-12,Mel_c11,parcialmente nublado,parcialmente nublado
+2024-10-12,Mel_c12,parcialmente nublado,lluvia
+2024-10-12,Mel_c13,parcialmente nublado,nublado
+2024-10-12,Mel_c14,nublado,nublado
+2024-10-12,Mel_c15,parcialmente nublado,frío extremo
+2024-10-12,Mel_c2,soleado,soleado
+2024-10-12,Mel_c3,calor extremo,calor extremo
+2024-10-12,Mel_c4,parcialmente nublado,nublado
+2024-10-12,Mel_c5,parcialmente nublado,parcialmente nublado
+2024-10-12,Mel_c6,parcialmente nublado,parcialmente nublado
+2024-10-12,Mel_c7,calor extremo,soleado
+2024-10-12,Mel_c8,soleado,soleado
+2024-10-12,Mel_c9,soleado,viento fuerte
+2024-10-12,Per_c1,parcialmente nublado,parcialmente nublado
+2024-10-12,Per_c10,soleado,soleado
+2024-10-12,Per_c2,frío extremo,frío extremo
+2024-10-12,Per_c3,frío extremo,soleado
+2024-10-12,Per_c4,lluvia,calor extremo
+2024-10-12,Per_c5,tormenta,nublado
+2024-10-12,Per_c6,frío extremo,tormenta
+2024-10-12,Per_c7,calor extremo,viento fuerte
+2024-10-12,Per_c8,parcialmente nublado,viento fuerte
+2024-10-12,Per_c9,parcialmente nublado,parcialmente nublado
+2024-10-12,Syd_c1,lluvia,lluvia
+2024-10-12,Syd_c10,calor extremo,tormenta
+2024-10-12,Syd_c11,lluvia,lluvia
+2024-10-12,Syd_c12,soleado,soleado
+2024-10-12,Syd_c13,lluvia,lluvia
+2024-10-12,Syd_c14,lluvia,soleado
+2024-10-12,Syd_c15,tormenta,tormenta
+2024-10-12,Syd_c2,nublado,nublado
+2024-10-12,Syd_c3,soleado,soleado
+2024-10-12,Syd_c4,calor extremo,lluvia
+2024-10-12,Syd_c5,parcialmente nublado,parcialmente nublado
+2024-10-12,Syd_c6,soleado,soleado
+2024-10-12,Syd_c7,soleado,soleado
+2024-10-12,Syd_c8,lluvia,lluvia
+2024-10-12,Syd_c9,parcialmente nublado,parcialmente nublado
+2024-10-13,Ade_c1,nublado,parcialmente nublado
+2024-10-13,Ade_c2,nublado,frío extremo
+2024-10-13,Ade_c3,lluvia,lluvia
+2024-10-13,Ade_c4,soleado,soleado
+2024-10-13,Bri_c1,calor extremo,calor extremo
+2024-10-13,Bri_c10,lluvia,lluvia
+2024-10-13,Bri_c2,lluvia,lluvia
+2024-10-13,Bri_c3,tormenta,tormenta
+2024-10-13,Bri_c4,frío extremo,frío extremo
+2024-10-13,Bri_c5,viento fuerte,viento fuerte
+2024-10-13,Bri_c6,soleado,soleado
+2024-10-13,Bri_c7,frío extremo,frío extremo
+2024-10-13,Bri_c8,lluvia,frío extremo
+2024-10-13,Bri_c9,lluvia,lluvia
+2024-10-13,Cai_c1,lluvia,lluvia
+2024-10-13,Cai_c2,parcialmente nublado,viento fuerte
+2024-10-13,Cai_c3,parcialmente nublado,parcialmente nublado
+2024-10-13,Cai_c4,frío extremo,frío extremo
+2024-10-13,Cai_c5,tormenta,tormenta
+2024-10-13,Cai_c6,viento fuerte,viento fuerte
+2024-10-13,Can_c1,frío extremo,frío extremo
+2024-10-13,Can_c2,frío extremo,frío extremo
+2024-10-13,Can_c3,frío extremo,frío extremo
+2024-10-13,Dar_c1,frío extremo,lluvia
+2024-10-13,Dar_c2,viento fuerte,viento fuerte
+2024-10-13,Dar_c3,lluvia,lluvia
+2024-10-13,Gol_c1,lluvia,lluvia
+2024-10-13,Gol_c2,nublado,nublado
+2024-10-13,Gol_c3,viento fuerte,tormenta
+2024-10-13,Gol_c4,soleado,soleado
+2024-10-13,Gol_c5,calor extremo,calor extremo
+2024-10-13,Gol_c6,frío extremo,soleado
+2024-10-13,Hob_c1,nublado,nublado
+2024-10-13,Hob_c2,nublado,soleado
+2024-10-13,Hob_c3,calor extremo,calor extremo
+2024-10-13,Hob_c4,calor extremo,calor extremo
+2024-10-13,Mel_c1,frío extremo,frío extremo
+2024-10-13,Mel_c10,parcialmente nublado,calor extremo
+2024-10-13,Mel_c11,nublado,nublado
+2024-10-13,Mel_c12,calor extremo,calor extremo
+2024-10-13,Mel_c13,calor extremo,tormenta
+2024-10-13,Mel_c14,lluvia,lluvia
+2024-10-13,Mel_c15,nublado,nublado
+2024-10-13,Mel_c2,parcialmente nublado,nublado
+2024-10-13,Mel_c3,nublado,nublado
+2024-10-13,Mel_c4,parcialmente nublado,parcialmente nublado
+2024-10-13,Mel_c5,nublado,nublado
+2024-10-13,Mel_c6,frío extremo,frío extremo
+2024-10-13,Mel_c7,viento fuerte,viento fuerte
+2024-10-13,Mel_c8,nublado,nublado
+2024-10-13,Mel_c9,tormenta,lluvia
+2024-10-13,Per_c1,frío extremo,frío extremo
+2024-10-13,Per_c10,nublado,nublado
+2024-10-13,Per_c2,lluvia,lluvia
+2024-10-13,Per_c3,frío extremo,frío extremo
+2024-10-13,Per_c4,lluvia,lluvia
+2024-10-13,Per_c5,tormenta,parcialmente nublado
+2024-10-13,Per_c6,nublado,nublado
+2024-10-13,Per_c7,parcialmente nublado,parcialmente nublado
+2024-10-13,Per_c8,soleado,soleado
+2024-10-13,Per_c9,parcialmente nublado,nublado
+2024-10-13,Syd_c1,nublado,nublado
+2024-10-13,Syd_c10,frío extremo,frío extremo
+2024-10-13,Syd_c11,calor extremo,viento fuerte
+2024-10-13,Syd_c12,frío extremo,frío extremo
+2024-10-13,Syd_c13,frío extremo,frío extremo
+2024-10-13,Syd_c14,viento fuerte,viento fuerte
+2024-10-13,Syd_c15,lluvia,frío extremo
+2024-10-13,Syd_c2,soleado,soleado
+2024-10-13,Syd_c3,frío extremo,calor extremo
+2024-10-13,Syd_c4,soleado,soleado
+2024-10-13,Syd_c5,calor extremo,calor extremo
+2024-10-13,Syd_c6,parcialmente nublado,parcialmente nublado
+2024-10-13,Syd_c7,frío extremo,frío extremo
+2024-10-13,Syd_c8,frío extremo,frío extremo
+2024-10-13,Syd_c9,calor extremo,calor extremo
+2024-10-14,Ade_c1,frío extremo,frío extremo
+2024-10-14,Ade_c2,frío extremo,frío extremo
+2024-10-14,Ade_c3,frío extremo,frío extremo
+2024-10-14,Ade_c4,lluvia,lluvia
+2024-10-14,Bri_c1,frío extremo,tormenta
+2024-10-14,Bri_c10,soleado,soleado
+2024-10-14,Bri_c2,calor extremo,calor extremo
+2024-10-14,Bri_c3,soleado,soleado
+2024-10-14,Bri_c4,nublado,nublado
+2024-10-14,Bri_c5,calor extremo,calor extremo
+2024-10-14,Bri_c6,viento fuerte,viento fuerte
+2024-10-14,Bri_c7,parcialmente nublado,parcialmente nublado
+2024-10-14,Bri_c8,parcialmente nublado,parcialmente nublado
+2024-10-14,Bri_c9,frío extremo,frío extremo
+2024-10-14,Cai_c1,calor extremo,calor extremo
+2024-10-14,Cai_c2,calor extremo,calor extremo
+2024-10-14,Cai_c3,soleado,soleado
+2024-10-14,Cai_c4,parcialmente nublado,lluvia
+2024-10-14,Cai_c5,soleado,nublado
+2024-10-14,Cai_c6,viento fuerte,viento fuerte
+2024-10-14,Can_c1,parcialmente nublado,tormenta
+2024-10-14,Can_c2,nublado,nublado
+2024-10-14,Can_c3,lluvia,lluvia
+2024-10-14,Dar_c1,frío extremo,lluvia
+2024-10-14,Dar_c2,nublado,nublado
+2024-10-14,Dar_c3,lluvia,lluvia
+2024-10-14,Gol_c1,nublado,nublado
+2024-10-14,Gol_c2,soleado,calor extremo
+2024-10-14,Gol_c3,nublado,nublado
+2024-10-14,Gol_c4,frío extremo,frío extremo
+2024-10-14,Gol_c5,lluvia,parcialmente nublado
+2024-10-14,Gol_c6,frío extremo,frío extremo
+2024-10-14,Hob_c1,viento fuerte,viento fuerte
+2024-10-14,Hob_c2,calor extremo,calor extremo
+2024-10-14,Hob_c3,lluvia,frío extremo
+2024-10-14,Hob_c4,lluvia,lluvia
+2024-10-14,Mel_c1,soleado,soleado
+2024-10-14,Mel_c10,nublado,tormenta
+2024-10-14,Mel_c11,tormenta,calor extremo
+2024-10-14,Mel_c12,soleado,nublado
+2024-10-14,Mel_c13,calor extremo,calor extremo
+2024-10-14,Mel_c14,soleado,soleado
+2024-10-14,Mel_c15,frío extremo,soleado
+2024-10-14,Mel_c2,nublado,tormenta
+2024-10-14,Mel_c3,soleado,soleado
+2024-10-14,Mel_c4,parcialmente nublado,parcialmente nublado
+2024-10-14,Mel_c5,lluvia,lluvia
+2024-10-14,Mel_c6,viento fuerte,viento fuerte
+2024-10-14,Mel_c7,nublado,nublado
+2024-10-14,Mel_c8,parcialmente nublado,tormenta
+2024-10-14,Mel_c9,viento fuerte,viento fuerte
+2024-10-14,Per_c1,parcialmente nublado,parcialmente nublado
+2024-10-14,Per_c10,tormenta,tormenta
+2024-10-14,Per_c2,parcialmente nublado,lluvia
+2024-10-14,Per_c3,parcialmente nublado,calor extremo
+2024-10-14,Per_c4,soleado,soleado
+2024-10-14,Per_c5,viento fuerte,viento fuerte
+2024-10-14,Per_c6,frío extremo,frío extremo
+2024-10-14,Per_c7,lluvia,lluvia
+2024-10-14,Per_c8,viento fuerte,viento fuerte
+2024-10-14,Per_c9,soleado,soleado
+2024-10-14,Syd_c1,soleado,tormenta
+2024-10-14,Syd_c10,calor extremo,calor extremo
+2024-10-14,Syd_c11,nublado,nublado
+2024-10-14,Syd_c12,parcialmente nublado,parcialmente nublado
+2024-10-14,Syd_c13,soleado,soleado
+2024-10-14,Syd_c14,frío extremo,frío extremo
+2024-10-14,Syd_c15,tormenta,calor extremo
+2024-10-14,Syd_c2,lluvia,lluvia
+2024-10-14,Syd_c3,parcialmente nublado,parcialmente nublado
+2024-10-14,Syd_c4,tormenta,tormenta
+2024-10-14,Syd_c5,parcialmente nublado,parcialmente nublado
+2024-10-14,Syd_c6,calor extremo,calor extremo
+2024-10-14,Syd_c7,soleado,soleado
+2024-10-14,Syd_c8,viento fuerte,viento fuerte
+2024-10-14,Syd_c9,nublado,calor extremo
+2024-10-15,Ade_c1,parcialmente nublado,parcialmente nublado
+2024-10-15,Ade_c2,soleado,soleado
+2024-10-15,Ade_c3,lluvia,frío extremo
+2024-10-15,Ade_c4,parcialmente nublado,nublado
+2024-10-15,Bri_c1,nublado,tormenta
+2024-10-15,Bri_c10,lluvia,lluvia
+2024-10-15,Bri_c2,frío extremo,nublado
+2024-10-15,Bri_c3,viento fuerte,viento fuerte
+2024-10-15,Bri_c4,lluvia,lluvia
+2024-10-15,Bri_c5,nublado,nublado
+2024-10-15,Bri_c6,viento fuerte,viento fuerte
+2024-10-15,Bri_c7,parcialmente nublado,parcialmente nublado
+2024-10-15,Bri_c8,parcialmente nublado,viento fuerte
+2024-10-15,Bri_c9,viento fuerte,viento fuerte
+2024-10-15,Cai_c1,calor extremo,soleado
+2024-10-15,Cai_c2,tormenta,soleado
+2024-10-15,Cai_c3,frío extremo,parcialmente nublado
+2024-10-15,Cai_c4,nublado,nublado
+2024-10-15,Cai_c5,calor extremo,calor extremo
+2024-10-15,Cai_c6,frío extremo,frío extremo
+2024-10-15,Can_c1,lluvia,viento fuerte
+2024-10-15,Can_c2,parcialmente nublado,parcialmente nublado
+2024-10-15,Can_c3,frío extremo,frío extremo
+2024-10-15,Dar_c1,nublado,nublado
+2024-10-15,Dar_c2,nublado,calor extremo
+2024-10-15,Dar_c3,soleado,parcialmente nublado
+2024-10-15,Gol_c1,calor extremo,lluvia
+2024-10-15,Gol_c2,lluvia,soleado
+2024-10-15,Gol_c3,viento fuerte,frío extremo
+2024-10-15,Gol_c4,calor extremo,soleado
+2024-10-15,Gol_c5,lluvia,lluvia
+2024-10-15,Gol_c6,viento fuerte,frío extremo
+2024-10-15,Hob_c1,tormenta,tormenta
+2024-10-15,Hob_c2,nublado,nublado
+2024-10-15,Hob_c3,viento fuerte,viento fuerte
+2024-10-15,Hob_c4,soleado,parcialmente nublado
+2024-10-15,Mel_c1,parcialmente nublado,parcialmente nublado
+2024-10-15,Mel_c10,lluvia,lluvia
+2024-10-15,Mel_c11,frío extremo,frío extremo
+2024-10-15,Mel_c12,frío extremo,calor extremo
+2024-10-15,Mel_c13,calor extremo,tormenta
+2024-10-15,Mel_c14,lluvia,lluvia
+2024-10-15,Mel_c15,viento fuerte,frío extremo
+2024-10-15,Mel_c2,calor extremo,calor extremo
+2024-10-15,Mel_c3,nublado,nublado
+2024-10-15,Mel_c4,soleado,calor extremo
+2024-10-15,Mel_c5,lluvia,lluvia
+2024-10-15,Mel_c6,soleado,parcialmente nublado
+2024-10-15,Mel_c7,soleado,parcialmente nublado
+2024-10-15,Mel_c8,viento fuerte,frío extremo
+2024-10-15,Mel_c9,frío extremo,soleado
+2024-10-15,Per_c1,tormenta,parcialmente nublado
+2024-10-15,Per_c10,lluvia,lluvia
+2024-10-15,Per_c2,lluvia,lluvia
+2024-10-15,Per_c3,viento fuerte,viento fuerte
+2024-10-15,Per_c4,parcialmente nublado,parcialmente nublado
+2024-10-15,Per_c5,parcialmente nublado,parcialmente nublado
+2024-10-15,Per_c6,frío extremo,viento fuerte
+2024-10-15,Per_c7,calor extremo,soleado
+2024-10-15,Per_c8,parcialmente nublado,calor extremo
+2024-10-15,Per_c9,lluvia,calor extremo
+2024-10-15,Syd_c1,frío extremo,calor extremo
+2024-10-15,Syd_c10,calor extremo,frío extremo
+2024-10-15,Syd_c11,viento fuerte,viento fuerte
+2024-10-15,Syd_c12,nublado,nublado
+2024-10-15,Syd_c13,calor extremo,calor extremo
+2024-10-15,Syd_c14,parcialmente nublado,tormenta
+2024-10-15,Syd_c15,soleado,soleado
+2024-10-15,Syd_c2,calor extremo,calor extremo
+2024-10-15,Syd_c3,soleado,calor extremo
+2024-10-15,Syd_c4,parcialmente nublado,lluvia
+2024-10-15,Syd_c5,lluvia,viento fuerte
+2024-10-15,Syd_c6,lluvia,frío extremo
+2024-10-15,Syd_c7,nublado,parcialmente nublado
+2024-10-15,Syd_c8,lluvia,soleado
+2024-10-15,Syd_c9,frío extremo,tormenta
+2024-10-16,Ade_c1,nublado,nublado
+2024-10-16,Ade_c2,nublado,nublado
+2024-10-16,Ade_c3,frío extremo,calor extremo
+2024-10-16,Ade_c4,parcialmente nublado,parcialmente nublado
+2024-10-16,Bri_c1,viento fuerte,viento fuerte
+2024-10-16,Bri_c10,parcialmente nublado,soleado
+2024-10-16,Bri_c2,nublado,nublado
+2024-10-16,Bri_c3,lluvia,viento fuerte
+2024-10-16,Bri_c4,tormenta,soleado
+2024-10-16,Bri_c5,soleado,nublado
+2024-10-16,Bri_c6,soleado,tormenta
+2024-10-16,Bri_c7,lluvia,calor extremo
+2024-10-16,Bri_c8,nublado,lluvia
+2024-10-16,Bri_c9,soleado,soleado
+2024-10-16,Cai_c1,soleado,calor extremo
+2024-10-16,Cai_c2,lluvia,lluvia
+2024-10-16,Cai_c3,calor extremo,tormenta
+2024-10-16,Cai_c4,soleado,parcialmente nublado
+2024-10-16,Cai_c5,parcialmente nublado,lluvia
+2024-10-16,Cai_c6,lluvia,parcialmente nublado
+2024-10-16,Can_c1,soleado,soleado
+2024-10-16,Can_c2,nublado,nublado
+2024-10-16,Can_c3,viento fuerte,soleado
+2024-10-16,Dar_c1,soleado,lluvia
+2024-10-16,Dar_c2,parcialmente nublado,parcialmente nublado
+2024-10-16,Dar_c3,parcialmente nublado,viento fuerte
+2024-10-16,Gol_c1,soleado,soleado
+2024-10-16,Gol_c2,tormenta,frío extremo
+2024-10-16,Gol_c3,soleado,viento fuerte
+2024-10-16,Gol_c4,nublado,nublado
+2024-10-16,Gol_c5,nublado,nublado
+2024-10-16,Gol_c6,soleado,parcialmente nublado
+2024-10-16,Hob_c1,soleado,viento fuerte
+2024-10-16,Hob_c2,nublado,nublado
+2024-10-16,Hob_c3,lluvia,lluvia
+2024-10-16,Hob_c4,frío extremo,frío extremo
+2024-10-16,Mel_c1,lluvia,lluvia
+2024-10-16,Mel_c10,nublado,soleado
+2024-10-16,Mel_c11,lluvia,lluvia
+2024-10-16,Mel_c12,frío extremo,tormenta
+2024-10-16,Mel_c13,viento fuerte,viento fuerte
+2024-10-16,Mel_c14,frío extremo,frío extremo
+2024-10-16,Mel_c15,calor extremo,viento fuerte
+2024-10-16,Mel_c2,nublado,soleado
+2024-10-16,Mel_c3,parcialmente nublado,viento fuerte
+2024-10-16,Mel_c4,parcialmente nublado,viento fuerte
+2024-10-16,Mel_c5,frío extremo,frío extremo
+2024-10-16,Mel_c6,parcialmente nublado,tormenta
+2024-10-16,Mel_c7,nublado,nublado
+2024-10-16,Mel_c8,nublado,parcialmente nublado
+2024-10-16,Mel_c9,soleado,tormenta
+2024-10-16,Per_c1,viento fuerte,nublado
+2024-10-16,Per_c10,parcialmente nublado,parcialmente nublado
+2024-10-16,Per_c2,soleado,lluvia
+2024-10-16,Per_c3,nublado,nublado
+2024-10-16,Per_c4,soleado,nublado
+2024-10-16,Per_c5,soleado,lluvia
+2024-10-16,Per_c6,parcialmente nublado,parcialmente nublado
+2024-10-16,Per_c7,frío extremo,frío extremo
+2024-10-16,Per_c8,parcialmente nublado,parcialmente nublado
+2024-10-16,Per_c9,calor extremo,calor extremo
+2024-10-16,Syd_c1,parcialmente nublado,parcialmente nublado
+2024-10-16,Syd_c10,soleado,soleado
+2024-10-16,Syd_c11,frío extremo,parcialmente nublado
+2024-10-16,Syd_c12,parcialmente nublado,parcialmente nublado
+2024-10-16,Syd_c13,viento fuerte,tormenta
+2024-10-16,Syd_c14,nublado,nublado
+2024-10-16,Syd_c15,parcialmente nublado,viento fuerte
+2024-10-16,Syd_c2,frío extremo,viento fuerte
+2024-10-16,Syd_c3,parcialmente nublado,tormenta
+2024-10-16,Syd_c4,calor extremo,calor extremo
+2024-10-16,Syd_c5,soleado,lluvia
+2024-10-16,Syd_c6,nublado,parcialmente nublado
+2024-10-16,Syd_c7,soleado,viento fuerte
+2024-10-16,Syd_c8,parcialmente nublado,frío extremo
+2024-10-16,Syd_c9,nublado,soleado
+2024-10-17,Ade_c1,viento fuerte,soleado
+2024-10-17,Ade_c2,nublado,nublado
+2024-10-17,Ade_c3,soleado,soleado
+2024-10-17,Ade_c4,lluvia,lluvia
+2024-10-17,Bri_c1,soleado,soleado
+2024-10-17,Bri_c10,nublado,nublado
+2024-10-17,Bri_c2,calor extremo,calor extremo
+2024-10-17,Bri_c3,soleado,soleado
+2024-10-17,Bri_c4,calor extremo,calor extremo
+2024-10-17,Bri_c5,calor extremo,calor extremo
+2024-10-17,Bri_c6,nublado,nublado
+2024-10-17,Bri_c7,parcialmente nublado,parcialmente nublado
+2024-10-17,Bri_c8,lluvia,lluvia
+2024-10-17,Bri_c9,lluvia,lluvia
+2024-10-17,Cai_c1,soleado,soleado
+2024-10-17,Cai_c2,frío extremo,frío extremo
+2024-10-17,Cai_c3,viento fuerte,viento fuerte
+2024-10-17,Cai_c4,soleado,frío extremo
+2024-10-17,Cai_c5,lluvia,nublado
+2024-10-17,Cai_c6,lluvia,soleado
+2024-10-17,Can_c1,parcialmente nublado,parcialmente nublado
+2024-10-17,Can_c2,soleado,soleado
+2024-10-17,Can_c3,soleado,viento fuerte
+2024-10-17,Dar_c1,parcialmente nublado,parcialmente nublado
+2024-10-17,Dar_c2,soleado,frío extremo
+2024-10-17,Dar_c3,frío extremo,frío extremo
+2024-10-17,Gol_c1,soleado,soleado
+2024-10-17,Gol_c2,parcialmente nublado,parcialmente nublado
+2024-10-17,Gol_c3,tormenta,tormenta
+2024-10-17,Gol_c4,calor extremo,calor extremo
+2024-10-17,Gol_c5,soleado,soleado
+2024-10-17,Gol_c6,parcialmente nublado,tormenta
+2024-10-17,Hob_c1,parcialmente nublado,calor extremo
+2024-10-17,Hob_c2,lluvia,lluvia
+2024-10-17,Hob_c3,calor extremo,nublado
+2024-10-17,Hob_c4,lluvia,tormenta
+2024-10-17,Mel_c1,viento fuerte,viento fuerte
+2024-10-17,Mel_c10,viento fuerte,parcialmente nublado
+2024-10-17,Mel_c11,soleado,soleado
+2024-10-17,Mel_c12,soleado,soleado
+2024-10-17,Mel_c13,lluvia,lluvia
+2024-10-17,Mel_c14,parcialmente nublado,nublado
+2024-10-17,Mel_c15,lluvia,lluvia
+2024-10-17,Mel_c2,parcialmente nublado,tormenta
+2024-10-17,Mel_c3,frío extremo,frío extremo
+2024-10-17,Mel_c4,parcialmente nublado,parcialmente nublado
+2024-10-17,Mel_c5,viento fuerte,viento fuerte
+2024-10-17,Mel_c6,soleado,soleado
+2024-10-17,Mel_c7,viento fuerte,viento fuerte
+2024-10-17,Mel_c8,soleado,frío extremo
+2024-10-17,Mel_c9,nublado,nublado
+2024-10-17,Per_c1,soleado,viento fuerte
+2024-10-17,Per_c10,soleado,calor extremo
+2024-10-17,Per_c2,soleado,soleado
+2024-10-17,Per_c3,nublado,nublado
+2024-10-17,Per_c4,nublado,nublado
+2024-10-17,Per_c5,frío extremo,parcialmente nublado
+2024-10-17,Per_c6,nublado,nublado
+2024-10-17,Per_c7,viento fuerte,viento fuerte
+2024-10-17,Per_c8,soleado,soleado
+2024-10-17,Per_c9,frío extremo,tormenta
+2024-10-17,Syd_c1,tormenta,calor extremo
+2024-10-17,Syd_c10,lluvia,lluvia
+2024-10-17,Syd_c11,parcialmente nublado,parcialmente nublado
+2024-10-17,Syd_c12,frío extremo,calor extremo
+2024-10-17,Syd_c13,lluvia,frío extremo
+2024-10-17,Syd_c14,frío extremo,frío extremo
+2024-10-17,Syd_c15,calor extremo,nublado
+2024-10-17,Syd_c2,nublado,viento fuerte
+2024-10-17,Syd_c3,lluvia,soleado
+2024-10-17,Syd_c4,viento fuerte,nublado
+2024-10-17,Syd_c5,viento fuerte,parcialmente nublado
+2024-10-17,Syd_c6,frío extremo,lluvia
+2024-10-17,Syd_c7,lluvia,lluvia
+2024-10-17,Syd_c8,lluvia,lluvia
+2024-10-17,Syd_c9,lluvia,frío extremo
+2024-10-18,Ade_c1,parcialmente nublado,parcialmente nublado
+2024-10-18,Ade_c2,calor extremo,tormenta
+2024-10-18,Ade_c3,lluvia,lluvia
+2024-10-18,Ade_c4,frío extremo,soleado
+2024-10-18,Bri_c1,nublado,nublado
+2024-10-18,Bri_c10,soleado,soleado
+2024-10-18,Bri_c2,calor extremo,soleado
+2024-10-18,Bri_c3,nublado,nublado
+2024-10-18,Bri_c4,nublado,nublado
+2024-10-18,Bri_c5,tormenta,parcialmente nublado
+2024-10-18,Bri_c6,soleado,soleado
+2024-10-18,Bri_c7,nublado,calor extremo
+2024-10-18,Bri_c8,soleado,frío extremo
+2024-10-18,Bri_c9,frío extremo,frío extremo
+2024-10-18,Cai_c1,parcialmente nublado,parcialmente nublado
+2024-10-18,Cai_c2,parcialmente nublado,parcialmente nublado
+2024-10-18,Cai_c3,parcialmente nublado,parcialmente nublado
+2024-10-18,Cai_c4,soleado,lluvia
+2024-10-18,Cai_c5,viento fuerte,soleado
+2024-10-18,Cai_c6,lluvia,soleado
+2024-10-18,Can_c1,nublado,lluvia
+2024-10-18,Can_c2,soleado,frío extremo
+2024-10-18,Can_c3,parcialmente nublado,tormenta
+2024-10-18,Dar_c1,frío extremo,frío extremo
+2024-10-18,Dar_c2,frío extremo,viento fuerte
+2024-10-18,Dar_c3,nublado,soleado
+2024-10-18,Gol_c1,parcialmente nublado,parcialmente nublado
+2024-10-18,Gol_c2,soleado,soleado
+2024-10-18,Gol_c3,soleado,soleado
+2024-10-18,Gol_c4,frío extremo,frío extremo
+2024-10-18,Gol_c5,soleado,soleado
+2024-10-18,Gol_c6,lluvia,frío extremo
+2024-10-18,Hob_c1,calor extremo,calor extremo
+2024-10-18,Hob_c2,parcialmente nublado,tormenta
+2024-10-18,Hob_c3,soleado,soleado
+2024-10-18,Hob_c4,nublado,calor extremo
+2024-10-18,Mel_c1,nublado,nublado
+2024-10-18,Mel_c10,viento fuerte,lluvia
+2024-10-18,Mel_c11,nublado,viento fuerte
+2024-10-18,Mel_c12,nublado,nublado
+2024-10-18,Mel_c13,soleado,tormenta
+2024-10-18,Mel_c14,calor extremo,nublado
+2024-10-18,Mel_c15,nublado,tormenta
+2024-10-18,Mel_c2,nublado,nublado
+2024-10-18,Mel_c3,nublado,parcialmente nublado
+2024-10-18,Mel_c4,calor extremo,frío extremo
+2024-10-18,Mel_c5,lluvia,lluvia
+2024-10-18,Mel_c6,parcialmente nublado,tormenta
+2024-10-18,Mel_c7,viento fuerte,viento fuerte
+2024-10-18,Mel_c8,frío extremo,frío extremo
+2024-10-18,Mel_c9,parcialmente nublado,lluvia
+2024-10-18,Per_c1,calor extremo,tormenta
+2024-10-18,Per_c10,frío extremo,frío extremo
+2024-10-18,Per_c2,nublado,nublado
+2024-10-18,Per_c3,calor extremo,calor extremo
+2024-10-18,Per_c4,frío extremo,calor extremo
+2024-10-18,Per_c5,lluvia,lluvia
+2024-10-18,Per_c6,soleado,soleado
+2024-10-18,Per_c7,frío extremo,lluvia
+2024-10-18,Per_c8,viento fuerte,viento fuerte
+2024-10-18,Per_c9,soleado,frío extremo
+2024-10-18,Syd_c1,parcialmente nublado,parcialmente nublado
+2024-10-18,Syd_c10,nublado,soleado
+2024-10-18,Syd_c11,tormenta,lluvia
+2024-10-18,Syd_c12,parcialmente nublado,lluvia
+2024-10-18,Syd_c13,tormenta,tormenta
+2024-10-18,Syd_c14,nublado,tormenta
+2024-10-18,Syd_c15,soleado,soleado
+2024-10-18,Syd_c2,frío extremo,calor extremo
+2024-10-18,Syd_c3,calor extremo,calor extremo
+2024-10-18,Syd_c4,tormenta,tormenta
+2024-10-18,Syd_c5,nublado,soleado
+2024-10-18,Syd_c6,soleado,soleado
+2024-10-18,Syd_c7,parcialmente nublado,soleado
+2024-10-18,Syd_c8,frío extremo,nublado
+2024-10-18,Syd_c9,lluvia,frío extremo
+2024-10-19,Ade_c1,parcialmente nublado,parcialmente nublado
+2024-10-19,Ade_c2,nublado,nublado
+2024-10-19,Ade_c3,viento fuerte,frío extremo
+2024-10-19,Ade_c4,viento fuerte,viento fuerte
+2024-10-19,Bri_c1,calor extremo,soleado
+2024-10-19,Bri_c10,soleado,viento fuerte
+2024-10-19,Bri_c2,calor extremo,calor extremo
+2024-10-19,Bri_c3,nublado,frío extremo
+2024-10-19,Bri_c4,viento fuerte,parcialmente nublado
+2024-10-19,Bri_c5,calor extremo,viento fuerte
+2024-10-19,Bri_c6,soleado,parcialmente nublado
+2024-10-19,Bri_c7,lluvia,lluvia
+2024-10-19,Bri_c8,frío extremo,soleado
+2024-10-19,Bri_c9,lluvia,tormenta
+2024-10-19,Cai_c1,nublado,parcialmente nublado
+2024-10-19,Cai_c2,calor extremo,calor extremo
+2024-10-19,Cai_c3,soleado,nublado
+2024-10-19,Cai_c4,calor extremo,nublado
+2024-10-19,Cai_c5,frío extremo,frío extremo
+2024-10-19,Cai_c6,parcialmente nublado,viento fuerte
+2024-10-19,Can_c1,parcialmente nublado,parcialmente nublado
+2024-10-19,Can_c2,parcialmente nublado,parcialmente nublado
+2024-10-19,Can_c3,parcialmente nublado,parcialmente nublado
+2024-10-19,Dar_c1,nublado,tormenta
+2024-10-19,Dar_c2,parcialmente nublado,parcialmente nublado
+2024-10-19,Dar_c3,parcialmente nublado,soleado
+2024-10-19,Gol_c1,soleado,calor extremo
+2024-10-19,Gol_c2,nublado,tormenta
+2024-10-19,Gol_c3,calor extremo,calor extremo
+2024-10-19,Gol_c4,soleado,parcialmente nublado
+2024-10-19,Gol_c5,soleado,lluvia
+2024-10-19,Gol_c6,nublado,nublado
+2024-10-19,Hob_c1,viento fuerte,soleado
+2024-10-19,Hob_c2,calor extremo,soleado
+2024-10-19,Hob_c3,viento fuerte,parcialmente nublado
+2024-10-19,Hob_c4,frío extremo,viento fuerte
+2024-10-19,Mel_c1,viento fuerte,tormenta
+2024-10-19,Mel_c10,parcialmente nublado,parcialmente nublado
+2024-10-19,Mel_c11,soleado,soleado
+2024-10-19,Mel_c12,parcialmente nublado,viento fuerte
+2024-10-19,Mel_c13,soleado,frío extremo
+2024-10-19,Mel_c14,nublado,tormenta
+2024-10-19,Mel_c15,nublado,frío extremo
+2024-10-19,Mel_c2,frío extremo,frío extremo
+2024-10-19,Mel_c3,frío extremo,tormenta
+2024-10-19,Mel_c4,frío extremo,parcialmente nublado
+2024-10-19,Mel_c5,soleado,soleado
+2024-10-19,Mel_c6,frío extremo,tormenta
+2024-10-19,Mel_c7,lluvia,parcialmente nublado
+2024-10-19,Mel_c8,soleado,soleado
+2024-10-19,Mel_c9,lluvia,lluvia
+2024-10-19,Per_c1,parcialmente nublado,lluvia
+2024-10-19,Per_c10,soleado,lluvia
+2024-10-19,Per_c2,tormenta,tormenta
+2024-10-19,Per_c3,parcialmente nublado,parcialmente nublado
+2024-10-19,Per_c4,viento fuerte,parcialmente nublado
+2024-10-19,Per_c5,viento fuerte,viento fuerte
+2024-10-19,Per_c6,calor extremo,tormenta
+2024-10-19,Per_c7,parcialmente nublado,parcialmente nublado
+2024-10-19,Per_c8,calor extremo,calor extremo
+2024-10-19,Per_c9,nublado,tormenta
+2024-10-19,Syd_c1,soleado,soleado
+2024-10-19,Syd_c10,parcialmente nublado,calor extremo
+2024-10-19,Syd_c11,frío extremo,nublado
+2024-10-19,Syd_c12,frío extremo,parcialmente nublado
+2024-10-19,Syd_c13,lluvia,lluvia
+2024-10-19,Syd_c14,parcialmente nublado,viento fuerte
+2024-10-19,Syd_c15,tormenta,tormenta
+2024-10-19,Syd_c2,parcialmente nublado,viento fuerte
+2024-10-19,Syd_c3,parcialmente nublado,parcialmente nublado
+2024-10-19,Syd_c4,nublado,nublado
+2024-10-19,Syd_c5,frío extremo,lluvia
+2024-10-19,Syd_c6,tormenta,soleado
+2024-10-19,Syd_c7,lluvia,lluvia
+2024-10-19,Syd_c8,calor extremo,soleado
+2024-10-19,Syd_c9,nublado,tormenta
+2024-10-20,Ade_c1,lluvia,lluvia
+2024-10-20,Ade_c2,calor extremo,tormenta
+2024-10-20,Ade_c3,lluvia,lluvia
+2024-10-20,Ade_c4,viento fuerte,viento fuerte
+2024-10-20,Bri_c1,parcialmente nublado,viento fuerte
+2024-10-20,Bri_c10,tormenta,tormenta
+2024-10-20,Bri_c2,nublado,calor extremo
+2024-10-20,Bri_c3,soleado,parcialmente nublado
+2024-10-20,Bri_c4,lluvia,frío extremo
+2024-10-20,Bri_c5,nublado,nublado
+2024-10-20,Bri_c6,soleado,nublado
+2024-10-20,Bri_c7,calor extremo,calor extremo
+2024-10-20,Bri_c8,soleado,parcialmente nublado
+2024-10-20,Bri_c9,viento fuerte,viento fuerte
+2024-10-20,Cai_c1,soleado,soleado
+2024-10-20,Cai_c2,nublado,nublado
+2024-10-20,Cai_c3,frío extremo,frío extremo
+2024-10-20,Cai_c4,viento fuerte,parcialmente nublado
+2024-10-20,Cai_c5,soleado,nublado
+2024-10-20,Cai_c6,nublado,soleado
+2024-10-20,Can_c1,parcialmente nublado,frío extremo
+2024-10-20,Can_c2,frío extremo,frío extremo
+2024-10-20,Can_c3,calor extremo,tormenta
+2024-10-20,Dar_c1,frío extremo,nublado
+2024-10-20,Dar_c2,calor extremo,nublado
+2024-10-20,Dar_c3,soleado,viento fuerte
+2024-10-20,Gol_c1,tormenta,tormenta
+2024-10-20,Gol_c2,lluvia,lluvia
+2024-10-20,Gol_c3,nublado,nublado
+2024-10-20,Gol_c4,calor extremo,tormenta
+2024-10-20,Gol_c5,soleado,soleado
+2024-10-20,Gol_c6,lluvia,lluvia
+2024-10-20,Hob_c1,soleado,soleado
+2024-10-20,Hob_c2,calor extremo,calor extremo
+2024-10-20,Hob_c3,calor extremo,calor extremo
+2024-10-20,Hob_c4,viento fuerte,viento fuerte
+2024-10-20,Mel_c1,frío extremo,viento fuerte
+2024-10-20,Mel_c10,tormenta,lluvia
+2024-10-20,Mel_c11,soleado,frío extremo
+2024-10-20,Mel_c12,viento fuerte,nublado
+2024-10-20,Mel_c13,lluvia,parcialmente nublado
+2024-10-20,Mel_c14,calor extremo,calor extremo
+2024-10-20,Mel_c15,nublado,parcialmente nublado
+2024-10-20,Mel_c2,calor extremo,lluvia
+2024-10-20,Mel_c3,viento fuerte,frío extremo
+2024-10-20,Mel_c4,parcialmente nublado,parcialmente nublado
+2024-10-20,Mel_c5,frío extremo,lluvia
+2024-10-20,Mel_c6,nublado,soleado
+2024-10-20,Mel_c7,soleado,soleado
+2024-10-20,Mel_c8,nublado,nublado
+2024-10-20,Mel_c9,nublado,calor extremo
+2024-10-20,Per_c1,lluvia,lluvia
+2024-10-20,Per_c10,parcialmente nublado,parcialmente nublado
+2024-10-20,Per_c2,lluvia,parcialmente nublado
+2024-10-20,Per_c3,lluvia,lluvia
+2024-10-20,Per_c4,calor extremo,calor extremo
+2024-10-20,Per_c5,lluvia,calor extremo
+2024-10-20,Per_c6,parcialmente nublado,parcialmente nublado
+2024-10-20,Per_c7,soleado,soleado
+2024-10-20,Per_c8,viento fuerte,soleado
+2024-10-20,Per_c9,parcialmente nublado,calor extremo
+2024-10-20,Syd_c1,lluvia,parcialmente nublado
+2024-10-20,Syd_c10,nublado,nublado
+2024-10-20,Syd_c11,calor extremo,calor extremo
+2024-10-20,Syd_c12,nublado,frío extremo
+2024-10-20,Syd_c13,viento fuerte,calor extremo
+2024-10-20,Syd_c14,tormenta,lluvia
+2024-10-20,Syd_c15,nublado,nublado
+2024-10-20,Syd_c2,nublado,nublado
+2024-10-20,Syd_c3,soleado,nublado
+2024-10-20,Syd_c4,viento fuerte,viento fuerte
+2024-10-20,Syd_c5,calor extremo,lluvia
+2024-10-20,Syd_c6,frío extremo,soleado
+2024-10-20,Syd_c7,soleado,soleado
+2024-10-20,Syd_c8,frío extremo,frío extremo
+2024-10-20,Syd_c9,viento fuerte,tormenta
+2024-10-21,Ade_c1,frío extremo,frío extremo
+2024-10-21,Ade_c2,nublado,frío extremo
+2024-10-21,Ade_c3,soleado,soleado
+2024-10-21,Ade_c4,nublado,nublado
+2024-10-21,Bri_c1,viento fuerte,frío extremo
+2024-10-21,Bri_c10,calor extremo,frío extremo
+2024-10-21,Bri_c2,parcialmente nublado,frío extremo
+2024-10-21,Bri_c3,frío extremo,lluvia
+2024-10-21,Bri_c4,frío extremo,frío extremo
+2024-10-21,Bri_c5,lluvia,soleado
+2024-10-21,Bri_c6,parcialmente nublado,nublado
+2024-10-21,Bri_c7,frío extremo,nublado
+2024-10-21,Bri_c8,soleado,soleado
+2024-10-21,Bri_c9,lluvia,lluvia
+2024-10-21,Cai_c1,frío extremo,frío extremo
+2024-10-21,Cai_c2,nublado,viento fuerte
+2024-10-21,Cai_c3,calor extremo,calor extremo
+2024-10-21,Cai_c4,frío extremo,calor extremo
+2024-10-21,Cai_c5,parcialmente nublado,nublado
+2024-10-21,Cai_c6,viento fuerte,viento fuerte
+2024-10-21,Can_c1,tormenta,parcialmente nublado
+2024-10-21,Can_c2,nublado,nublado
+2024-10-21,Can_c3,soleado,soleado
+2024-10-21,Dar_c1,frío extremo,frío extremo
+2024-10-21,Dar_c2,lluvia,calor extremo
+2024-10-21,Dar_c3,nublado,nublado
+2024-10-21,Gol_c1,lluvia,nublado
+2024-10-21,Gol_c2,nublado,soleado
+2024-10-21,Gol_c3,soleado,frío extremo
+2024-10-21,Gol_c4,viento fuerte,viento fuerte
+2024-10-21,Gol_c5,calor extremo,lluvia
+2024-10-21,Gol_c6,tormenta,tormenta
+2024-10-21,Hob_c1,viento fuerte,lluvia
+2024-10-21,Hob_c2,viento fuerte,viento fuerte
+2024-10-21,Hob_c3,frío extremo,frío extremo
+2024-10-21,Hob_c4,parcialmente nublado,nublado
+2024-10-21,Mel_c1,frío extremo,tormenta
+2024-10-21,Mel_c10,parcialmente nublado,parcialmente nublado
+2024-10-21,Mel_c11,calor extremo,lluvia
+2024-10-21,Mel_c12,frío extremo,viento fuerte
+2024-10-21,Mel_c13,calor extremo,viento fuerte
+2024-10-21,Mel_c14,frío extremo,tormenta
+2024-10-21,Mel_c15,soleado,viento fuerte
+2024-10-21,Mel_c2,lluvia,lluvia
+2024-10-21,Mel_c3,lluvia,lluvia
+2024-10-21,Mel_c4,parcialmente nublado,parcialmente nublado
+2024-10-21,Mel_c5,frío extremo,frío extremo
+2024-10-21,Mel_c6,parcialmente nublado,parcialmente nublado
+2024-10-21,Mel_c7,frío extremo,tormenta
+2024-10-21,Mel_c8,frío extremo,frío extremo
+2024-10-21,Mel_c9,calor extremo,calor extremo
+2024-10-21,Per_c1,tormenta,tormenta
+2024-10-21,Per_c10,parcialmente nublado,parcialmente nublado
+2024-10-21,Per_c2,calor extremo,lluvia
+2024-10-21,Per_c3,frío extremo,soleado
+2024-10-21,Per_c4,tormenta,frío extremo
+2024-10-21,Per_c5,calor extremo,calor extremo
+2024-10-21,Per_c6,nublado,lluvia
+2024-10-21,Per_c7,calor extremo,viento fuerte
+2024-10-21,Per_c8,nublado,lluvia
+2024-10-21,Per_c9,soleado,viento fuerte
+2024-10-21,Syd_c1,tormenta,tormenta
+2024-10-21,Syd_c10,soleado,soleado
+2024-10-21,Syd_c11,frío extremo,calor extremo
+2024-10-21,Syd_c12,calor extremo,calor extremo
+2024-10-21,Syd_c13,parcialmente nublado,parcialmente nublado
+2024-10-21,Syd_c14,parcialmente nublado,calor extremo
+2024-10-21,Syd_c15,frío extremo,frío extremo
+2024-10-21,Syd_c2,viento fuerte,calor extremo
+2024-10-21,Syd_c3,soleado,frío extremo
+2024-10-21,Syd_c4,parcialmente nublado,nublado
+2024-10-21,Syd_c5,parcialmente nublado,soleado
+2024-10-21,Syd_c6,nublado,nublado
+2024-10-21,Syd_c7,parcialmente nublado,nublado
+2024-10-21,Syd_c8,frío extremo,calor extremo
+2024-10-21,Syd_c9,nublado,nublado
+2024-10-22,Ade_c1,soleado,soleado
+2024-10-22,Ade_c2,parcialmente nublado,parcialmente nublado
+2024-10-22,Ade_c3,parcialmente nublado,parcialmente nublado
+2024-10-22,Ade_c4,frío extremo,frío extremo
+2024-10-22,Bri_c1,calor extremo,frío extremo
+2024-10-22,Bri_c10,parcialmente nublado,parcialmente nublado
+2024-10-22,Bri_c2,parcialmente nublado,tormenta
+2024-10-22,Bri_c3,soleado,frío extremo
+2024-10-22,Bri_c4,frío extremo,lluvia
+2024-10-22,Bri_c5,soleado,nublado
+2024-10-22,Bri_c6,viento fuerte,nublado
+2024-10-22,Bri_c7,nublado,viento fuerte
+2024-10-22,Bri_c8,calor extremo,frío extremo
+2024-10-22,Bri_c9,lluvia,lluvia
+2024-10-22,Cai_c1,calor extremo,calor extremo
+2024-10-22,Cai_c2,parcialmente nublado,parcialmente nublado
+2024-10-22,Cai_c3,viento fuerte,viento fuerte
+2024-10-22,Cai_c4,calor extremo,calor extremo
+2024-10-22,Cai_c5,frío extremo,parcialmente nublado
+2024-10-22,Cai_c6,frío extremo,nublado
+2024-10-22,Can_c1,calor extremo,calor extremo
+2024-10-22,Can_c2,frío extremo,calor extremo
+2024-10-22,Can_c3,frío extremo,lluvia
+2024-10-22,Dar_c1,viento fuerte,lluvia
+2024-10-22,Dar_c2,frío extremo,frío extremo
+2024-10-22,Dar_c3,frío extremo,lluvia
+2024-10-22,Gol_c1,frío extremo,frío extremo
+2024-10-22,Gol_c2,nublado,parcialmente nublado
+2024-10-22,Gol_c3,tormenta,lluvia
+2024-10-22,Gol_c4,frío extremo,viento fuerte
+2024-10-22,Gol_c5,frío extremo,frío extremo
+2024-10-22,Gol_c6,lluvia,lluvia
+2024-10-22,Hob_c1,frío extremo,nublado
+2024-10-22,Hob_c2,parcialmente nublado,viento fuerte
+2024-10-22,Hob_c3,nublado,nublado
+2024-10-22,Hob_c4,soleado,soleado
+2024-10-22,Mel_c1,viento fuerte,soleado
+2024-10-22,Mel_c10,frío extremo,parcialmente nublado
+2024-10-22,Mel_c11,viento fuerte,viento fuerte
+2024-10-22,Mel_c12,nublado,soleado
+2024-10-22,Mel_c13,parcialmente nublado,frío extremo
+2024-10-22,Mel_c14,frío extremo,nublado
+2024-10-22,Mel_c15,lluvia,calor extremo
+2024-10-22,Mel_c2,tormenta,parcialmente nublado
+2024-10-22,Mel_c3,calor extremo,tormenta
+2024-10-22,Mel_c4,soleado,soleado
+2024-10-22,Mel_c5,viento fuerte,calor extremo
+2024-10-22,Mel_c6,soleado,nublado
+2024-10-22,Mel_c7,soleado,calor extremo
+2024-10-22,Mel_c8,calor extremo,calor extremo
+2024-10-22,Mel_c9,viento fuerte,viento fuerte
+2024-10-22,Per_c1,parcialmente nublado,soleado
+2024-10-22,Per_c10,nublado,nublado
+2024-10-22,Per_c2,soleado,viento fuerte
+2024-10-22,Per_c3,nublado,viento fuerte
+2024-10-22,Per_c4,soleado,frío extremo
+2024-10-22,Per_c5,nublado,nublado
+2024-10-22,Per_c6,nublado,nublado
+2024-10-22,Per_c7,frío extremo,frío extremo
+2024-10-22,Per_c8,parcialmente nublado,soleado
+2024-10-22,Per_c9,viento fuerte,viento fuerte
+2024-10-22,Syd_c1,frío extremo,tormenta
+2024-10-22,Syd_c10,soleado,soleado
+2024-10-22,Syd_c11,viento fuerte,viento fuerte
+2024-10-22,Syd_c12,frío extremo,frío extremo
+2024-10-22,Syd_c13,nublado,nublado
+2024-10-22,Syd_c14,viento fuerte,viento fuerte
+2024-10-22,Syd_c15,calor extremo,viento fuerte
+2024-10-22,Syd_c2,parcialmente nublado,viento fuerte
+2024-10-22,Syd_c3,nublado,soleado
+2024-10-22,Syd_c4,parcialmente nublado,parcialmente nublado
+2024-10-22,Syd_c5,viento fuerte,soleado
+2024-10-22,Syd_c6,nublado,nublado
+2024-10-22,Syd_c7,nublado,nublado
+2024-10-22,Syd_c8,lluvia,parcialmente nublado
+2024-10-22,Syd_c9,lluvia,tormenta
+2024-10-23,Ade_c1,parcialmente nublado,nublado
+2024-10-23,Ade_c2,parcialmente nublado,parcialmente nublado
+2024-10-23,Ade_c3,calor extremo,parcialmente nublado
+2024-10-23,Ade_c4,calor extremo,calor extremo
+2024-10-23,Bri_c1,soleado,soleado
+2024-10-23,Bri_c10,lluvia,lluvia
+2024-10-23,Bri_c2,nublado,nublado
+2024-10-23,Bri_c3,calor extremo,calor extremo
+2024-10-23,Bri_c4,tormenta,lluvia
+2024-10-23,Bri_c5,nublado,calor extremo
+2024-10-23,Bri_c6,calor extremo,frío extremo
+2024-10-23,Bri_c7,parcialmente nublado,nublado
+2024-10-23,Bri_c8,viento fuerte,lluvia
+2024-10-23,Bri_c9,parcialmente nublado,parcialmente nublado
+2024-10-23,Cai_c1,parcialmente nublado,lluvia
+2024-10-23,Cai_c2,parcialmente nublado,parcialmente nublado
+2024-10-23,Cai_c3,parcialmente nublado,parcialmente nublado
+2024-10-23,Cai_c4,soleado,soleado
+2024-10-23,Cai_c5,viento fuerte,tormenta
+2024-10-23,Cai_c6,parcialmente nublado,parcialmente nublado
+2024-10-23,Can_c1,nublado,nublado
+2024-10-23,Can_c2,viento fuerte,parcialmente nublado
+2024-10-23,Can_c3,frío extremo,tormenta
+2024-10-23,Dar_c1,frío extremo,lluvia
+2024-10-23,Dar_c2,nublado,nublado
+2024-10-23,Dar_c3,parcialmente nublado,calor extremo
+2024-10-23,Gol_c1,soleado,soleado
+2024-10-23,Gol_c2,frío extremo,frío extremo
+2024-10-23,Gol_c3,parcialmente nublado,nublado
+2024-10-23,Gol_c4,calor extremo,soleado
+2024-10-23,Gol_c5,soleado,soleado
+2024-10-23,Gol_c6,soleado,tormenta
+2024-10-23,Hob_c1,nublado,nublado
+2024-10-23,Hob_c2,parcialmente nublado,lluvia
+2024-10-23,Hob_c3,soleado,soleado
+2024-10-23,Hob_c4,soleado,lluvia
+2024-10-23,Mel_c1,frío extremo,frío extremo
+2024-10-23,Mel_c10,lluvia,viento fuerte
+2024-10-23,Mel_c11,soleado,soleado
+2024-10-23,Mel_c12,viento fuerte,viento fuerte
+2024-10-23,Mel_c13,calor extremo,soleado
+2024-10-23,Mel_c14,nublado,viento fuerte
+2024-10-23,Mel_c15,parcialmente nublado,viento fuerte
+2024-10-23,Mel_c2,lluvia,calor extremo
+2024-10-23,Mel_c3,frío extremo,calor extremo
+2024-10-23,Mel_c4,lluvia,lluvia
+2024-10-23,Mel_c5,soleado,nublado
+2024-10-23,Mel_c6,calor extremo,calor extremo
+2024-10-23,Mel_c7,calor extremo,calor extremo
+2024-10-23,Mel_c8,soleado,nublado
+2024-10-23,Mel_c9,soleado,soleado
+2024-10-23,Per_c1,soleado,soleado
+2024-10-23,Per_c10,nublado,nublado
+2024-10-23,Per_c2,parcialmente nublado,viento fuerte
+2024-10-23,Per_c3,soleado,viento fuerte
+2024-10-23,Per_c4,soleado,soleado
+2024-10-23,Per_c5,viento fuerte,parcialmente nublado
+2024-10-23,Per_c6,parcialmente nublado,calor extremo
+2024-10-23,Per_c7,soleado,soleado
+2024-10-23,Per_c8,frío extremo,parcialmente nublado
+2024-10-23,Per_c9,tormenta,nublado
+2024-10-23,Syd_c1,nublado,soleado
+2024-10-23,Syd_c10,parcialmente nublado,calor extremo
+2024-10-23,Syd_c11,parcialmente nublado,parcialmente nublado
+2024-10-23,Syd_c12,frío extremo,calor extremo
+2024-10-23,Syd_c13,calor extremo,calor extremo
+2024-10-23,Syd_c14,frío extremo,frío extremo
+2024-10-23,Syd_c15,viento fuerte,viento fuerte
+2024-10-23,Syd_c2,tormenta,tormenta
+2024-10-23,Syd_c3,soleado,soleado
+2024-10-23,Syd_c4,calor extremo,calor extremo
+2024-10-23,Syd_c5,frío extremo,frío extremo
+2024-10-23,Syd_c6,parcialmente nublado,tormenta
+2024-10-23,Syd_c7,nublado,viento fuerte
+2024-10-23,Syd_c8,frío extremo,nublado
+2024-10-23,Syd_c9,soleado,parcialmente nublado
+2024-10-24,Ade_c1,parcialmente nublado,viento fuerte
+2024-10-24,Ade_c2,lluvia,nublado
+2024-10-24,Ade_c3,nublado,calor extremo
+2024-10-24,Ade_c4,nublado,soleado
+2024-10-24,Bri_c1,parcialmente nublado,calor extremo
+2024-10-24,Bri_c10,frío extremo,tormenta
+2024-10-24,Bri_c2,calor extremo,calor extremo
+2024-10-24,Bri_c3,nublado,nublado
+2024-10-24,Bri_c4,soleado,soleado
+2024-10-24,Bri_c5,parcialmente nublado,frío extremo
+2024-10-24,Bri_c6,nublado,nublado
+2024-10-24,Bri_c7,nublado,nublado
+2024-10-24,Bri_c8,soleado,soleado
+2024-10-24,Bri_c9,calor extremo,frío extremo
+2024-10-24,Cai_c1,nublado,nublado
+2024-10-24,Cai_c2,lluvia,lluvia
+2024-10-24,Cai_c3,frío extremo,viento fuerte
+2024-10-24,Cai_c4,soleado,soleado
+2024-10-24,Cai_c5,soleado,calor extremo
+2024-10-24,Cai_c6,viento fuerte,frío extremo
+2024-10-24,Can_c1,parcialmente nublado,parcialmente nublado
+2024-10-24,Can_c2,soleado,soleado
+2024-10-24,Can_c3,parcialmente nublado,parcialmente nublado
+2024-10-24,Dar_c1,soleado,soleado
+2024-10-24,Dar_c2,soleado,soleado
+2024-10-24,Dar_c3,lluvia,soleado
+2024-10-24,Gol_c1,viento fuerte,calor extremo
+2024-10-24,Gol_c2,frío extremo,lluvia
+2024-10-24,Gol_c3,lluvia,lluvia
+2024-10-24,Gol_c4,viento fuerte,calor extremo
+2024-10-24,Gol_c5,frío extremo,frío extremo
+2024-10-24,Gol_c6,nublado,nublado
+2024-10-24,Hob_c1,soleado,soleado
+2024-10-24,Hob_c2,parcialmente nublado,parcialmente nublado
+2024-10-24,Hob_c3,parcialmente nublado,parcialmente nublado
+2024-10-24,Hob_c4,soleado,soleado
+2024-10-24,Mel_c1,parcialmente nublado,parcialmente nublado
+2024-10-24,Mel_c10,viento fuerte,calor extremo
+2024-10-24,Mel_c11,frío extremo,frío extremo
+2024-10-24,Mel_c12,parcialmente nublado,parcialmente nublado
+2024-10-24,Mel_c13,calor extremo,calor extremo
+2024-10-24,Mel_c14,lluvia,nublado
+2024-10-24,Mel_c15,lluvia,tormenta
+2024-10-24,Mel_c2,calor extremo,tormenta
+2024-10-24,Mel_c3,soleado,soleado
+2024-10-24,Mel_c4,nublado,soleado
+2024-10-24,Mel_c5,lluvia,lluvia
+2024-10-24,Mel_c6,lluvia,calor extremo
+2024-10-24,Mel_c7,nublado,soleado
+2024-10-24,Mel_c8,soleado,calor extremo
+2024-10-24,Mel_c9,tormenta,tormenta
+2024-10-24,Per_c1,parcialmente nublado,frío extremo
+2024-10-24,Per_c10,parcialmente nublado,parcialmente nublado
+2024-10-24,Per_c2,viento fuerte,viento fuerte
+2024-10-24,Per_c3,tormenta,tormenta
+2024-10-24,Per_c4,nublado,lluvia
+2024-10-24,Per_c5,nublado,nublado
+2024-10-24,Per_c6,soleado,soleado
+2024-10-24,Per_c7,nublado,nublado
+2024-10-24,Per_c8,soleado,tormenta
+2024-10-24,Per_c9,soleado,lluvia
+2024-10-24,Syd_c1,lluvia,lluvia
+2024-10-24,Syd_c10,parcialmente nublado,tormenta
+2024-10-24,Syd_c11,soleado,soleado
+2024-10-24,Syd_c12,viento fuerte,viento fuerte
+2024-10-24,Syd_c13,nublado,lluvia
+2024-10-24,Syd_c14,frío extremo,parcialmente nublado
+2024-10-24,Syd_c15,soleado,soleado
+2024-10-24,Syd_c2,lluvia,lluvia
+2024-10-24,Syd_c3,frío extremo,lluvia
+2024-10-24,Syd_c4,calor extremo,viento fuerte
+2024-10-24,Syd_c5,parcialmente nublado,lluvia
+2024-10-24,Syd_c6,soleado,viento fuerte
+2024-10-24,Syd_c7,calor extremo,tormenta
+2024-10-24,Syd_c8,parcialmente nublado,parcialmente nublado
+2024-10-24,Syd_c9,parcialmente nublado,parcialmente nublado
+2024-10-25,Ade_c1,nublado,tormenta
+2024-10-25,Ade_c2,tormenta,lluvia
+2024-10-25,Ade_c3,parcialmente nublado,calor extremo
+2024-10-25,Ade_c4,nublado,frío extremo
+2024-10-25,Bri_c1,calor extremo,calor extremo
+2024-10-25,Bri_c10,lluvia,calor extremo
+2024-10-25,Bri_c2,parcialmente nublado,parcialmente nublado
+2024-10-25,Bri_c3,parcialmente nublado,tormenta
+2024-10-25,Bri_c4,calor extremo,calor extremo
+2024-10-25,Bri_c5,nublado,calor extremo
+2024-10-25,Bri_c6,parcialmente nublado,parcialmente nublado
+2024-10-25,Bri_c7,frío extremo,frío extremo
+2024-10-25,Bri_c8,viento fuerte,viento fuerte
+2024-10-25,Bri_c9,parcialmente nublado,frío extremo
+2024-10-25,Cai_c1,calor extremo,calor extremo
+2024-10-25,Cai_c2,soleado,calor extremo
+2024-10-25,Cai_c3,calor extremo,nublado
+2024-10-25,Cai_c4,frío extremo,parcialmente nublado
+2024-10-25,Cai_c5,parcialmente nublado,parcialmente nublado
+2024-10-25,Cai_c6,soleado,soleado
+2024-10-25,Can_c1,frío extremo,frío extremo
+2024-10-25,Can_c2,frío extremo,frío extremo
+2024-10-25,Can_c3,calor extremo,calor extremo
+2024-10-25,Dar_c1,frío extremo,tormenta
+2024-10-25,Dar_c2,frío extremo,calor extremo
+2024-10-25,Dar_c3,frío extremo,calor extremo
+2024-10-25,Gol_c1,lluvia,viento fuerte
+2024-10-25,Gol_c2,calor extremo,lluvia
+2024-10-25,Gol_c3,soleado,soleado
+2024-10-25,Gol_c4,parcialmente nublado,parcialmente nublado
+2024-10-25,Gol_c5,parcialmente nublado,lluvia
+2024-10-25,Gol_c6,soleado,nublado
+2024-10-25,Hob_c1,parcialmente nublado,parcialmente nublado
+2024-10-25,Hob_c2,lluvia,frío extremo
+2024-10-25,Hob_c3,soleado,soleado
+2024-10-25,Hob_c4,frío extremo,viento fuerte
+2024-10-25,Mel_c1,soleado,viento fuerte
+2024-10-25,Mel_c10,soleado,soleado
+2024-10-25,Mel_c11,nublado,calor extremo
+2024-10-25,Mel_c12,lluvia,lluvia
+2024-10-25,Mel_c13,tormenta,calor extremo
+2024-10-25,Mel_c14,nublado,parcialmente nublado
+2024-10-25,Mel_c15,frío extremo,frío extremo
+2024-10-25,Mel_c2,parcialmente nublado,parcialmente nublado
+2024-10-25,Mel_c3,lluvia,lluvia
+2024-10-25,Mel_c4,frío extremo,soleado
+2024-10-25,Mel_c5,parcialmente nublado,parcialmente nublado
+2024-10-25,Mel_c6,calor extremo,calor extremo
+2024-10-25,Mel_c7,parcialmente nublado,viento fuerte
+2024-10-25,Mel_c8,frío extremo,lluvia
+2024-10-25,Mel_c9,soleado,lluvia
+2024-10-25,Per_c1,calor extremo,calor extremo
+2024-10-25,Per_c10,nublado,nublado
+2024-10-25,Per_c2,viento fuerte,calor extremo
+2024-10-25,Per_c3,nublado,calor extremo
+2024-10-25,Per_c4,soleado,calor extremo
+2024-10-25,Per_c5,parcialmente nublado,calor extremo
+2024-10-25,Per_c6,soleado,soleado
+2024-10-25,Per_c7,soleado,lluvia
+2024-10-25,Per_c8,parcialmente nublado,lluvia
+2024-10-25,Per_c9,calor extremo,calor extremo
+2024-10-25,Syd_c1,calor extremo,calor extremo
+2024-10-25,Syd_c10,soleado,calor extremo
+2024-10-25,Syd_c11,soleado,soleado
+2024-10-25,Syd_c12,tormenta,frío extremo
+2024-10-25,Syd_c13,calor extremo,calor extremo
+2024-10-25,Syd_c14,viento fuerte,viento fuerte
+2024-10-25,Syd_c15,nublado,nublado
+2024-10-25,Syd_c2,nublado,soleado
+2024-10-25,Syd_c3,soleado,soleado
+2024-10-25,Syd_c4,calor extremo,soleado
+2024-10-25,Syd_c5,soleado,soleado
+2024-10-25,Syd_c6,calor extremo,calor extremo
+2024-10-25,Syd_c7,tormenta,tormenta
+2024-10-25,Syd_c8,lluvia,nublado
+2024-10-25,Syd_c9,soleado,soleado
+2024-10-26,Ade_c1,nublado,nublado
+2024-10-26,Ade_c2,soleado,frío extremo
+2024-10-26,Ade_c3,soleado,soleado
+2024-10-26,Ade_c4,nublado,nublado
+2024-10-26,Bri_c1,calor extremo,calor extremo
+2024-10-26,Bri_c10,viento fuerte,calor extremo
+2024-10-26,Bri_c2,viento fuerte,soleado
+2024-10-26,Bri_c3,frío extremo,frío extremo
+2024-10-26,Bri_c4,calor extremo,calor extremo
+2024-10-26,Bri_c5,lluvia,viento fuerte
+2024-10-26,Bri_c6,frío extremo,soleado
+2024-10-26,Bri_c7,parcialmente nublado,parcialmente nublado
+2024-10-26,Bri_c8,lluvia,lluvia
+2024-10-26,Bri_c9,nublado,parcialmente nublado
+2024-10-26,Cai_c1,lluvia,lluvia
+2024-10-26,Cai_c2,soleado,soleado
+2024-10-26,Cai_c3,soleado,parcialmente nublado
+2024-10-26,Cai_c4,parcialmente nublado,soleado
+2024-10-26,Cai_c5,soleado,parcialmente nublado
+2024-10-26,Cai_c6,nublado,nublado
+2024-10-26,Can_c1,lluvia,lluvia
+2024-10-26,Can_c2,soleado,calor extremo
+2024-10-26,Can_c3,nublado,nublado
+2024-10-26,Dar_c1,soleado,viento fuerte
+2024-10-26,Dar_c2,nublado,lluvia
+2024-10-26,Dar_c3,tormenta,tormenta
+2024-10-26,Gol_c1,parcialmente nublado,frío extremo
+2024-10-26,Gol_c2,frío extremo,frío extremo
+2024-10-26,Gol_c3,frío extremo,frío extremo
+2024-10-26,Gol_c4,soleado,frío extremo
+2024-10-26,Gol_c5,nublado,nublado
+2024-10-26,Gol_c6,tormenta,frío extremo
+2024-10-26,Hob_c1,viento fuerte,viento fuerte
+2024-10-26,Hob_c2,nublado,parcialmente nublado
+2024-10-26,Hob_c3,frío extremo,frío extremo
+2024-10-26,Hob_c4,calor extremo,calor extremo
+2024-10-26,Mel_c1,parcialmente nublado,parcialmente nublado
+2024-10-26,Mel_c10,calor extremo,calor extremo
+2024-10-26,Mel_c11,soleado,calor extremo
+2024-10-26,Mel_c12,viento fuerte,lluvia
+2024-10-26,Mel_c13,parcialmente nublado,parcialmente nublado
+2024-10-26,Mel_c14,soleado,nublado
+2024-10-26,Mel_c15,calor extremo,calor extremo
+2024-10-26,Mel_c2,soleado,soleado
+2024-10-26,Mel_c3,calor extremo,calor extremo
+2024-10-26,Mel_c4,parcialmente nublado,tormenta
+2024-10-26,Mel_c5,soleado,soleado
+2024-10-26,Mel_c6,calor extremo,calor extremo
+2024-10-26,Mel_c7,nublado,lluvia
+2024-10-26,Mel_c8,viento fuerte,lluvia
+2024-10-26,Mel_c9,frío extremo,frío extremo
+2024-10-26,Per_c1,soleado,soleado
+2024-10-26,Per_c10,lluvia,lluvia
+2024-10-26,Per_c2,frío extremo,lluvia
+2024-10-26,Per_c3,frío extremo,frío extremo
+2024-10-26,Per_c4,soleado,soleado
+2024-10-26,Per_c5,parcialmente nublado,frío extremo
+2024-10-26,Per_c6,soleado,frío extremo
+2024-10-26,Per_c7,nublado,frío extremo
+2024-10-26,Per_c8,frío extremo,calor extremo
+2024-10-26,Per_c9,nublado,nublado
+2024-10-26,Syd_c1,calor extremo,nublado
+2024-10-26,Syd_c10,frío extremo,lluvia
+2024-10-26,Syd_c11,tormenta,tormenta
+2024-10-26,Syd_c12,nublado,nublado
+2024-10-26,Syd_c13,soleado,soleado
+2024-10-26,Syd_c14,nublado,nublado
+2024-10-26,Syd_c15,nublado,nublado
+2024-10-26,Syd_c2,parcialmente nublado,parcialmente nublado
+2024-10-26,Syd_c3,soleado,soleado
+2024-10-26,Syd_c4,tormenta,tormenta
+2024-10-26,Syd_c5,calor extremo,nublado
+2024-10-26,Syd_c6,parcialmente nublado,soleado
+2024-10-26,Syd_c7,frío extremo,frío extremo
+2024-10-26,Syd_c8,calor extremo,calor extremo
+2024-10-26,Syd_c9,frío extremo,frío extremo
+2024-10-27,Ade_c1,lluvia,lluvia
+2024-10-27,Ade_c2,nublado,nublado
+2024-10-27,Ade_c3,lluvia,soleado
+2024-10-27,Ade_c4,frío extremo,frío extremo
+2024-10-27,Bri_c1,viento fuerte,tormenta
+2024-10-27,Bri_c10,nublado,nublado
+2024-10-27,Bri_c2,lluvia,nublado
+2024-10-27,Bri_c3,nublado,nublado
+2024-10-27,Bri_c4,parcialmente nublado,lluvia
+2024-10-27,Bri_c5,soleado,parcialmente nublado
+2024-10-27,Bri_c6,soleado,nublado
+2024-10-27,Bri_c7,nublado,nublado
+2024-10-27,Bri_c8,frío extremo,frío extremo
+2024-10-27,Bri_c9,soleado,soleado
+2024-10-27,Cai_c1,parcialmente nublado,tormenta
+2024-10-27,Cai_c2,nublado,viento fuerte
+2024-10-27,Cai_c3,frío extremo,viento fuerte
+2024-10-27,Cai_c4,nublado,parcialmente nublado
+2024-10-27,Cai_c5,nublado,viento fuerte
+2024-10-27,Cai_c6,lluvia,lluvia
+2024-10-27,Can_c1,tormenta,tormenta
+2024-10-27,Can_c2,lluvia,lluvia
+2024-10-27,Can_c3,soleado,tormenta
+2024-10-27,Dar_c1,soleado,soleado
+2024-10-27,Dar_c2,calor extremo,soleado
+2024-10-27,Dar_c3,parcialmente nublado,soleado
+2024-10-27,Gol_c1,tormenta,frío extremo
+2024-10-27,Gol_c2,soleado,lluvia
+2024-10-27,Gol_c3,frío extremo,frío extremo
+2024-10-27,Gol_c4,frío extremo,frío extremo
+2024-10-27,Gol_c5,parcialmente nublado,parcialmente nublado
+2024-10-27,Gol_c6,lluvia,calor extremo
+2024-10-27,Hob_c1,calor extremo,calor extremo
+2024-10-27,Hob_c2,parcialmente nublado,parcialmente nublado
+2024-10-27,Hob_c3,calor extremo,calor extremo
+2024-10-27,Hob_c4,calor extremo,frío extremo
+2024-10-27,Mel_c1,soleado,soleado
+2024-10-27,Mel_c10,viento fuerte,viento fuerte
+2024-10-27,Mel_c11,lluvia,lluvia
+2024-10-27,Mel_c12,frío extremo,lluvia
+2024-10-27,Mel_c13,viento fuerte,viento fuerte
+2024-10-27,Mel_c14,soleado,nublado
+2024-10-27,Mel_c15,frío extremo,frío extremo
+2024-10-27,Mel_c2,nublado,nublado
+2024-10-27,Mel_c3,frío extremo,nublado
+2024-10-27,Mel_c4,frío extremo,frío extremo
+2024-10-27,Mel_c5,lluvia,lluvia
+2024-10-27,Mel_c6,soleado,viento fuerte
+2024-10-27,Mel_c7,parcialmente nublado,parcialmente nublado
+2024-10-27,Mel_c8,viento fuerte,viento fuerte
+2024-10-27,Mel_c9,nublado,soleado
+2024-10-27,Per_c1,frío extremo,frío extremo
+2024-10-27,Per_c10,tormenta,tormenta
+2024-10-27,Per_c2,nublado,nublado
+2024-10-27,Per_c3,nublado,nublado
+2024-10-27,Per_c4,soleado,lluvia
+2024-10-27,Per_c5,lluvia,tormenta
+2024-10-27,Per_c6,nublado,lluvia
+2024-10-27,Per_c7,lluvia,lluvia
+2024-10-27,Per_c8,frío extremo,frío extremo
+2024-10-27,Per_c9,frío extremo,frío extremo
+2024-10-27,Syd_c1,calor extremo,calor extremo
+2024-10-27,Syd_c10,frío extremo,frío extremo
+2024-10-27,Syd_c11,lluvia,calor extremo
+2024-10-27,Syd_c12,soleado,soleado
+2024-10-27,Syd_c13,soleado,parcialmente nublado
+2024-10-27,Syd_c14,frío extremo,tormenta
+2024-10-27,Syd_c15,parcialmente nublado,viento fuerte
+2024-10-27,Syd_c2,frío extremo,frío extremo
+2024-10-27,Syd_c3,parcialmente nublado,calor extremo
+2024-10-27,Syd_c4,frío extremo,viento fuerte
+2024-10-27,Syd_c5,frío extremo,frío extremo
+2024-10-27,Syd_c6,calor extremo,viento fuerte
+2024-10-27,Syd_c7,parcialmente nublado,parcialmente nublado
+2024-10-27,Syd_c8,nublado,nublado
+2024-10-27,Syd_c9,parcialmente nublado,calor extremo
+2024-10-28,Ade_c1,calor extremo,viento fuerte
+2024-10-28,Ade_c2,calor extremo,calor extremo
+2024-10-28,Ade_c3,tormenta,lluvia
+2024-10-28,Ade_c4,frío extremo,parcialmente nublado
+2024-10-28,Bri_c1,parcialmente nublado,viento fuerte
+2024-10-28,Bri_c10,soleado,soleado
+2024-10-28,Bri_c2,lluvia,viento fuerte
+2024-10-28,Bri_c3,frío extremo,viento fuerte
+2024-10-28,Bri_c4,calor extremo,lluvia
+2024-10-28,Bri_c5,parcialmente nublado,tormenta
+2024-10-28,Bri_c6,soleado,calor extremo
+2024-10-28,Bri_c7,soleado,parcialmente nublado
+2024-10-28,Bri_c8,soleado,soleado
+2024-10-28,Bri_c9,viento fuerte,viento fuerte
+2024-10-28,Cai_c1,viento fuerte,lluvia
+2024-10-28,Cai_c2,soleado,parcialmente nublado
+2024-10-28,Cai_c3,nublado,nublado
+2024-10-28,Cai_c4,frío extremo,frío extremo
+2024-10-28,Cai_c5,lluvia,lluvia
+2024-10-28,Cai_c6,lluvia,nublado
+2024-10-28,Can_c1,frío extremo,viento fuerte
+2024-10-28,Can_c2,lluvia,frío extremo
+2024-10-28,Can_c3,soleado,tormenta
+2024-10-28,Dar_c1,parcialmente nublado,parcialmente nublado
+2024-10-28,Dar_c2,calor extremo,calor extremo
+2024-10-28,Dar_c3,frío extremo,viento fuerte
+2024-10-28,Gol_c1,tormenta,parcialmente nublado
+2024-10-28,Gol_c2,parcialmente nublado,parcialmente nublado
+2024-10-28,Gol_c3,nublado,nublado
+2024-10-28,Gol_c4,soleado,soleado
+2024-10-28,Gol_c5,parcialmente nublado,parcialmente nublado
+2024-10-28,Gol_c6,tormenta,tormenta
+2024-10-28,Hob_c1,parcialmente nublado,soleado
+2024-10-28,Hob_c2,parcialmente nublado,parcialmente nublado
+2024-10-28,Hob_c3,soleado,viento fuerte
+2024-10-28,Hob_c4,viento fuerte,viento fuerte
+2024-10-28,Mel_c1,nublado,viento fuerte
+2024-10-28,Mel_c10,frío extremo,nublado
+2024-10-28,Mel_c11,parcialmente nublado,parcialmente nublado
+2024-10-28,Mel_c12,calor extremo,parcialmente nublado
+2024-10-28,Mel_c13,viento fuerte,soleado
+2024-10-28,Mel_c14,soleado,calor extremo
+2024-10-28,Mel_c15,lluvia,lluvia
+2024-10-28,Mel_c2,parcialmente nublado,viento fuerte
+2024-10-28,Mel_c3,viento fuerte,viento fuerte
+2024-10-28,Mel_c4,parcialmente nublado,lluvia
+2024-10-28,Mel_c5,tormenta,tormenta
+2024-10-28,Mel_c6,nublado,viento fuerte
+2024-10-28,Mel_c7,soleado,soleado
+2024-10-28,Mel_c8,parcialmente nublado,frío extremo
+2024-10-28,Mel_c9,soleado,soleado
+2024-10-28,Per_c1,nublado,soleado
+2024-10-28,Per_c10,lluvia,tormenta
+2024-10-28,Per_c2,viento fuerte,calor extremo
+2024-10-28,Per_c3,frío extremo,soleado
+2024-10-28,Per_c4,lluvia,nublado
+2024-10-28,Per_c5,parcialmente nublado,viento fuerte
+2024-10-28,Per_c6,frío extremo,calor extremo
+2024-10-28,Per_c7,lluvia,lluvia
+2024-10-28,Per_c8,nublado,calor extremo
+2024-10-28,Per_c9,viento fuerte,viento fuerte
+2024-10-28,Syd_c1,calor extremo,calor extremo
+2024-10-28,Syd_c10,parcialmente nublado,parcialmente nublado
+2024-10-28,Syd_c11,soleado,soleado
+2024-10-28,Syd_c12,parcialmente nublado,frío extremo
+2024-10-28,Syd_c13,lluvia,lluvia
+2024-10-28,Syd_c14,calor extremo,frío extremo
+2024-10-28,Syd_c15,frío extremo,nublado
+2024-10-28,Syd_c2,calor extremo,calor extremo
+2024-10-28,Syd_c3,parcialmente nublado,lluvia
+2024-10-28,Syd_c4,calor extremo,calor extremo
+2024-10-28,Syd_c5,tormenta,viento fuerte
+2024-10-28,Syd_c6,calor extremo,calor extremo
+2024-10-28,Syd_c7,viento fuerte,calor extremo
+2024-10-28,Syd_c8,nublado,calor extremo
+2024-10-28,Syd_c9,nublado,calor extremo
+2024-10-29,Ade_c1,nublado,nublado
+2024-10-29,Ade_c2,calor extremo,soleado
+2024-10-29,Ade_c3,soleado,soleado
+2024-10-29,Ade_c4,viento fuerte,calor extremo
+2024-10-29,Bri_c1,calor extremo,nublado
+2024-10-29,Bri_c10,calor extremo,calor extremo
+2024-10-29,Bri_c2,soleado,soleado
+2024-10-29,Bri_c3,frío extremo,viento fuerte
+2024-10-29,Bri_c4,calor extremo,lluvia
+2024-10-29,Bri_c5,nublado,viento fuerte
+2024-10-29,Bri_c6,soleado,soleado
+2024-10-29,Bri_c7,soleado,calor extremo
+2024-10-29,Bri_c8,viento fuerte,lluvia
+2024-10-29,Bri_c9,frío extremo,frío extremo
+2024-10-29,Cai_c1,viento fuerte,parcialmente nublado
+2024-10-29,Cai_c2,nublado,parcialmente nublado
+2024-10-29,Cai_c3,frío extremo,calor extremo
+2024-10-29,Cai_c4,frío extremo,frío extremo
+2024-10-29,Cai_c5,lluvia,soleado
+2024-10-29,Cai_c6,nublado,nublado
+2024-10-29,Can_c1,lluvia,soleado
+2024-10-29,Can_c2,frío extremo,nublado
+2024-10-29,Can_c3,nublado,soleado
+2024-10-29,Dar_c1,calor extremo,soleado
+2024-10-29,Dar_c2,soleado,soleado
+2024-10-29,Dar_c3,parcialmente nublado,parcialmente nublado
+2024-10-29,Gol_c1,soleado,lluvia
+2024-10-29,Gol_c2,parcialmente nublado,parcialmente nublado
+2024-10-29,Gol_c3,tormenta,tormenta
+2024-10-29,Gol_c4,nublado,nublado
+2024-10-29,Gol_c5,parcialmente nublado,parcialmente nublado
+2024-10-29,Gol_c6,calor extremo,soleado
+2024-10-29,Hob_c1,soleado,soleado
+2024-10-29,Hob_c2,nublado,nublado
+2024-10-29,Hob_c3,parcialmente nublado,parcialmente nublado
+2024-10-29,Hob_c4,frío extremo,parcialmente nublado
+2024-10-29,Mel_c1,soleado,viento fuerte
+2024-10-29,Mel_c10,parcialmente nublado,lluvia
+2024-10-29,Mel_c11,lluvia,lluvia
+2024-10-29,Mel_c12,nublado,nublado
+2024-10-29,Mel_c13,parcialmente nublado,viento fuerte
+2024-10-29,Mel_c14,soleado,lluvia
+2024-10-29,Mel_c15,lluvia,soleado
+2024-10-29,Mel_c2,calor extremo,calor extremo
+2024-10-29,Mel_c3,lluvia,soleado
+2024-10-29,Mel_c4,nublado,viento fuerte
+2024-10-29,Mel_c5,lluvia,lluvia
+2024-10-29,Mel_c6,nublado,lluvia
+2024-10-29,Mel_c7,parcialmente nublado,calor extremo
+2024-10-29,Mel_c8,lluvia,tormenta
+2024-10-29,Mel_c9,soleado,soleado
+2024-10-29,Per_c1,soleado,tormenta
+2024-10-29,Per_c10,calor extremo,calor extremo
+2024-10-29,Per_c2,parcialmente nublado,calor extremo
+2024-10-29,Per_c3,frío extremo,parcialmente nublado
+2024-10-29,Per_c4,frío extremo,frío extremo
+2024-10-29,Per_c5,lluvia,lluvia
+2024-10-29,Per_c6,soleado,soleado
+2024-10-29,Per_c7,lluvia,tormenta
+2024-10-29,Per_c8,viento fuerte,tormenta
+2024-10-29,Per_c9,nublado,parcialmente nublado
+2024-10-29,Syd_c1,lluvia,lluvia
+2024-10-29,Syd_c10,soleado,soleado
+2024-10-29,Syd_c11,calor extremo,tormenta
+2024-10-29,Syd_c12,viento fuerte,viento fuerte
+2024-10-29,Syd_c13,viento fuerte,viento fuerte
+2024-10-29,Syd_c14,parcialmente nublado,parcialmente nublado
+2024-10-29,Syd_c15,lluvia,viento fuerte
+2024-10-29,Syd_c2,nublado,nublado
+2024-10-29,Syd_c3,frío extremo,lluvia
+2024-10-29,Syd_c4,tormenta,tormenta
+2024-10-29,Syd_c5,soleado,parcialmente nublado
+2024-10-29,Syd_c6,viento fuerte,viento fuerte
+2024-10-29,Syd_c7,parcialmente nublado,tormenta
+2024-10-29,Syd_c8,calor extremo,calor extremo
+2024-10-29,Syd_c9,nublado,viento fuerte
+2024-10-30,Ade_c1,parcialmente nublado,parcialmente nublado
+2024-10-30,Ade_c2,soleado,soleado
+2024-10-30,Ade_c3,viento fuerte,calor extremo
+2024-10-30,Ade_c4,lluvia,tormenta
+2024-10-30,Bri_c1,viento fuerte,tormenta
+2024-10-30,Bri_c10,frío extremo,nublado
+2024-10-30,Bri_c2,calor extremo,calor extremo
+2024-10-30,Bri_c3,tormenta,tormenta
+2024-10-30,Bri_c4,parcialmente nublado,viento fuerte
+2024-10-30,Bri_c5,frío extremo,frío extremo
+2024-10-30,Bri_c6,calor extremo,tormenta
+2024-10-30,Bri_c7,nublado,nublado
+2024-10-30,Bri_c8,frío extremo,parcialmente nublado
+2024-10-30,Bri_c9,nublado,viento fuerte
+2024-10-30,Cai_c1,parcialmente nublado,parcialmente nublado
+2024-10-30,Cai_c2,soleado,parcialmente nublado
+2024-10-30,Cai_c3,lluvia,viento fuerte
+2024-10-30,Cai_c4,nublado,viento fuerte
+2024-10-30,Cai_c5,soleado,soleado
+2024-10-30,Cai_c6,lluvia,calor extremo
+2024-10-30,Can_c1,nublado,nublado
+2024-10-30,Can_c2,soleado,viento fuerte
+2024-10-30,Can_c3,nublado,nublado
+2024-10-30,Dar_c1,soleado,soleado
+2024-10-30,Dar_c2,soleado,parcialmente nublado
+2024-10-30,Dar_c3,nublado,frío extremo
+2024-10-30,Gol_c1,nublado,frío extremo
+2024-10-30,Gol_c2,calor extremo,calor extremo
+2024-10-30,Gol_c3,viento fuerte,frío extremo
+2024-10-30,Gol_c4,tormenta,nublado
+2024-10-30,Gol_c5,viento fuerte,viento fuerte
+2024-10-30,Gol_c6,lluvia,calor extremo
+2024-10-30,Hob_c1,nublado,nublado
+2024-10-30,Hob_c2,nublado,nublado
+2024-10-30,Hob_c3,calor extremo,calor extremo
+2024-10-30,Hob_c4,parcialmente nublado,parcialmente nublado
+2024-10-30,Mel_c1,soleado,soleado
+2024-10-30,Mel_c10,soleado,tormenta
+2024-10-30,Mel_c11,viento fuerte,lluvia
+2024-10-30,Mel_c12,soleado,soleado
+2024-10-30,Mel_c13,lluvia,lluvia
+2024-10-30,Mel_c14,parcialmente nublado,parcialmente nublado
+2024-10-30,Mel_c15,soleado,soleado
+2024-10-30,Mel_c2,parcialmente nublado,parcialmente nublado
+2024-10-30,Mel_c3,lluvia,viento fuerte
+2024-10-30,Mel_c4,tormenta,nublado
+2024-10-30,Mel_c5,nublado,nublado
+2024-10-30,Mel_c6,lluvia,calor extremo
+2024-10-30,Mel_c7,parcialmente nublado,parcialmente nublado
+2024-10-30,Mel_c8,nublado,nublado
+2024-10-30,Mel_c9,nublado,soleado
+2024-10-30,Per_c1,nublado,frío extremo
+2024-10-30,Per_c10,frío extremo,parcialmente nublado
+2024-10-30,Per_c2,soleado,soleado
+2024-10-30,Per_c3,lluvia,viento fuerte
+2024-10-30,Per_c4,frío extremo,frío extremo
+2024-10-30,Per_c5,tormenta,nublado
+2024-10-30,Per_c6,soleado,soleado
+2024-10-30,Per_c7,parcialmente nublado,viento fuerte
+2024-10-30,Per_c8,calor extremo,calor extremo
+2024-10-30,Per_c9,parcialmente nublado,parcialmente nublado
+2024-10-30,Syd_c1,soleado,soleado
+2024-10-30,Syd_c10,viento fuerte,viento fuerte
+2024-10-30,Syd_c11,lluvia,lluvia
+2024-10-30,Syd_c12,tormenta,tormenta
+2024-10-30,Syd_c13,frío extremo,frío extremo
+2024-10-30,Syd_c14,parcialmente nublado,nublado
+2024-10-30,Syd_c15,frío extremo,parcialmente nublado
+2024-10-30,Syd_c2,nublado,viento fuerte
+2024-10-30,Syd_c3,viento fuerte,viento fuerte
+2024-10-30,Syd_c4,lluvia,soleado
+2024-10-30,Syd_c5,nublado,nublado
+2024-10-30,Syd_c6,viento fuerte,viento fuerte
+2024-10-30,Syd_c7,soleado,soleado
+2024-10-30,Syd_c8,nublado,nublado
+2024-10-30,Syd_c9,nublado,viento fuerte
+2024-10-31,Ade_c1,calor extremo,calor extremo
+2024-10-31,Ade_c2,soleado,nublado
+2024-10-31,Ade_c3,nublado,nublado
+2024-10-31,Ade_c4,calor extremo,soleado
+2024-10-31,Bri_c1,lluvia,tormenta
+2024-10-31,Bri_c10,parcialmente nublado,parcialmente nublado
+2024-10-31,Bri_c2,tormenta,tormenta
+2024-10-31,Bri_c3,calor extremo,lluvia
+2024-10-31,Bri_c4,tormenta,frío extremo
+2024-10-31,Bri_c5,frío extremo,frío extremo
+2024-10-31,Bri_c6,frío extremo,frío extremo
+2024-10-31,Bri_c7,calor extremo,parcialmente nublado
+2024-10-31,Bri_c8,nublado,nublado
+2024-10-31,Bri_c9,nublado,frío extremo
+2024-10-31,Cai_c1,parcialmente nublado,viento fuerte
+2024-10-31,Cai_c2,nublado,nublado
+2024-10-31,Cai_c3,tormenta,soleado
+2024-10-31,Cai_c4,soleado,soleado
+2024-10-31,Cai_c5,tormenta,lluvia
+2024-10-31,Cai_c6,soleado,soleado
+2024-10-31,Can_c1,viento fuerte,viento fuerte
+2024-10-31,Can_c2,soleado,frío extremo
+2024-10-31,Can_c3,calor extremo,calor extremo
+2024-10-31,Dar_c1,soleado,calor extremo
+2024-10-31,Dar_c2,lluvia,lluvia
+2024-10-31,Dar_c3,frío extremo,frío extremo
+2024-10-31,Gol_c1,lluvia,tormenta
+2024-10-31,Gol_c2,viento fuerte,viento fuerte
+2024-10-31,Gol_c3,viento fuerte,frío extremo
+2024-10-31,Gol_c4,parcialmente nublado,tormenta
+2024-10-31,Gol_c5,frío extremo,soleado
+2024-10-31,Gol_c6,frío extremo,lluvia
+2024-10-31,Hob_c1,soleado,soleado
+2024-10-31,Hob_c2,lluvia,lluvia
+2024-10-31,Hob_c3,nublado,nublado
+2024-10-31,Hob_c4,soleado,calor extremo
+2024-10-31,Mel_c1,viento fuerte,soleado
+2024-10-31,Mel_c10,parcialmente nublado,soleado
+2024-10-31,Mel_c11,calor extremo,calor extremo
+2024-10-31,Mel_c12,nublado,viento fuerte
+2024-10-31,Mel_c13,nublado,nublado
+2024-10-31,Mel_c14,soleado,calor extremo
+2024-10-31,Mel_c15,lluvia,lluvia
+2024-10-31,Mel_c2,viento fuerte,viento fuerte
+2024-10-31,Mel_c3,soleado,soleado
+2024-10-31,Mel_c4,soleado,soleado
+2024-10-31,Mel_c5,lluvia,frío extremo
+2024-10-31,Mel_c6,viento fuerte,viento fuerte
+2024-10-31,Mel_c7,tormenta,viento fuerte
+2024-10-31,Mel_c8,nublado,nublado
+2024-10-31,Mel_c9,soleado,soleado
+2024-10-31,Per_c1,tormenta,soleado
+2024-10-31,Per_c10,parcialmente nublado,frío extremo
+2024-10-31,Per_c2,soleado,parcialmente nublado
+2024-10-31,Per_c3,calor extremo,nublado
+2024-10-31,Per_c4,nublado,nublado
+2024-10-31,Per_c5,calor extremo,calor extremo
+2024-10-31,Per_c6,calor extremo,calor extremo
+2024-10-31,Per_c7,frío extremo,tormenta
+2024-10-31,Per_c8,soleado,tormenta
+2024-10-31,Per_c9,nublado,nublado
+2024-10-31,Syd_c1,calor extremo,viento fuerte
+2024-10-31,Syd_c10,frío extremo,frío extremo
+2024-10-31,Syd_c11,calor extremo,calor extremo
+2024-10-31,Syd_c12,viento fuerte,viento fuerte
+2024-10-31,Syd_c13,tormenta,nublado
+2024-10-31,Syd_c14,parcialmente nublado,viento fuerte
+2024-10-31,Syd_c15,nublado,calor extremo
+2024-10-31,Syd_c2,frío extremo,calor extremo
+2024-10-31,Syd_c3,calor extremo,frío extremo
+2024-10-31,Syd_c4,nublado,parcialmente nublado
+2024-10-31,Syd_c5,parcialmente nublado,parcialmente nublado
+2024-10-31,Syd_c6,parcialmente nublado,soleado
+2024-10-31,Syd_c7,calor extremo,calor extremo
+2024-10-31,Syd_c8,nublado,tormenta
+2024-10-31,Syd_c9,parcialmente nublado,parcialmente nublado

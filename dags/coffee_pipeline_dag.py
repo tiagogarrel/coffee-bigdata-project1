@@ -1,7 +1,7 @@
 from airflow import DAG
-from airflow.operators.python import PythonOperator 
+from airflow.operators.python import PythonOperator
 from datetime import datetime
-from etl_pipeline import run_sales_pipeline  
+from etl_pipeline import run_sales_pipeline
 
 default_args = {
     'owner': 'airflow',
@@ -11,14 +11,14 @@ default_args = {
 with DAG(
     dag_id='ventas_cafe_dag',
     default_args=default_args,
-    schedule=None,  
+    schedule_interval=None,  # No automatic schedule
     catchup=False,
-    description='Simula y carga ventas de café en PostgreSQL',
+    description='Simulates and loads coffee sales into PostgreSQL',
 ) as dag:
 
-    tarea_simulacion = PythonOperator(
-        task_id='simular_y_cargar_ventas',
+    simulate_and_load_sales = PythonOperator(
+        task_id='simulate_and_load_sales',
         python_callable=run_sales_pipeline,
     )
 
-    tarea_simulacion
+    simulate_and_load_sales

@@ -1,40 +1,49 @@
-import pandas as pd
-import numpy as np
-import random
 import logging
-from datetime import datetime, timedelta
-from sqlalchemy import create_engine
-import joblib
 import os
-from config import DB_URL, CITIES_INFO, PRODUCTOS, CLIMAS, CLIMA_WEIGHTS, DIAS_SEMANA
+import random
+from datetime import datetime, timedelta
 
-# Configure logging
+import joblib
+import numpy as np
+import pandas as pd
+from sqlalchemy import create_engine
+
+from config import (
+    DB_URL,
+    CITIES_INFO,
+    PRODUCTOS,
+    CLIMAS,
+    CLIMA_WEIGHTS,
+    DIAS_SEMANA,
+)
+
+# Configure logging format
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-# DB engine
+# Create database engine
 engine = create_engine(DB_URL)
 
 # 🔮 Step 1: Generate future weather
 def generate_future_weather():
-    fechas = pd.date_range(start='2024-11-01', end='2024-11-07')
+    fechas = pd.date_range(start="2024-11-01", end="2024-11-07")
     data = []
 
     for fecha in fechas:
         for ciudad in CITIES_INFO.keys():
             clima = random.choices(CLIMAS, weights=CLIMA_WEIGHTS)[0]
-            if clima == 'calor extremo':
+            if clima == "calor extremo":
                 temp = random.uniform(31, 40)
-            elif clima == 'frío extremo':
+            elif clima == "frío extremo":
                 temp = random.uniform(5, 14)
             else:
                 temp = random.uniform(15, 30)
 
             data.append({
-                'fecha': fecha.date(),
-                'ciudad': ciudad,
-                'temperatura': round(temp, 2),
-                'clima': clima,
-                'dia_semana': fecha.strftime('%A')
+                "fecha": fecha.date(),
+                "ciudad": ciudad,
+                "temperatura": round(temp, 2),
+                "clima": clima,
+                "dia_semana": fecha.strftime("%A"),
             })
 
     df = pd.DataFrame(data)
@@ -49,12 +58,12 @@ def build_prediction_dataset():
     for _, row in clima_df.iterrows():
         for producto in PRODUCTOS:
             registros.append({
-                'fecha': row['fecha'],
-                'ciudad': row['ciudad'],
-                'producto': producto,
-                'temperatura': row['temperatura'],
-                'clima': row['clima'],
-                'dia_semana': row['dia_semana']
+                "fecha": row["fecha"],
+                "ciudad": row["ciudad"],
+                "producto": producto,
+                "temperatura": row["temperatura"],
+                "clima": row["clima"],
+                "dia_semana": row["dia_semana"],
             })
 
     df = pd.DataFrame(registros)
@@ -68,8 +77,12 @@ def predict_and_store():
     # Load model
     modelo = joblib.load("/opt/airflow/dags/model_random_forest.joblib")
 
-    # Encode features
-    df_encoded = pd.get_dummies(df, columns=['ciudad', 'producto', 'clima', 'dia_semana'], drop_first=True)
+    # Encode categorical features
+    df_encoded = pd.get_dummies(
+        df,
+        columns=["ciudad", "producto", "clima", "dia_semana"],
+        drop_first=True,
+    )
 
     # Add missing columns if needed
     expected_cols = modelo.feature_names_in_
@@ -79,8 +92,8 @@ def predict_and_store():
     df_encoded = df_encoded[expected_cols]
 
     # Predict
-    df['ventas_predichas'] = modelo.predict(df_encoded)
+    df["ventas_predichas"] = modelo.predict(df_encoded)
 
-    # Save to DB
+    # Save predictions to the database
     df.to_sql("predicciones_futuras", con=engine, if_exists="replace", index=False)
     logging.info("✅ Predictions generated and saved to DB.")

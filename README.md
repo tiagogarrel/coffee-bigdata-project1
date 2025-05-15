@@ -122,4 +122,4 @@ docker-compose up -d
 ## 👨‍💻 Author
 
 **Tiago Garrel** – Production Engineer & Data Analyst  
-[LinkedIn](https://www.linkedin.com/in/youruser)
+[LinkedIn](https://www.linkedin.com/in/tiago-garrel-329031209/)

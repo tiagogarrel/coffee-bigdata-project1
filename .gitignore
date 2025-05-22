@@ -1,0 +1,38 @@
+# Entornos virtuales
+venv/
+.env
+*.env
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+logs/
+*.log
+
+# Airflow
+airflow.cfg
+unittests.cfg
+airflow.db
+webserver_config.py
+
+# SQLite
+*.sqlite
+*.db
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VSCode config
+.vscode/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Airflow montados desde Docker
+dags/__pycache__/
+dags/*.pyc
+dags/*.log

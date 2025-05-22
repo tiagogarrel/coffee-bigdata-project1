@@ -1,0 +1,11 @@
+{"timestamp":"2025-05-20T22:06:09.532818","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-20T22:06:09.539163","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/prediccion_ventas_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T22:06:10.317764Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-20T22:06:10.318931Z","level":"info","event":" Previous state of the Task instance: queued","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-20T22:06:10.319691Z","level":"info","event":"Current task name:generar_clima_futuro","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-20T22:06:10.320429Z","level":"info","event":"Dag name:prediccion_ventas_dag","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-20T22:06:10.644412","level":"info","event":"✅ Future weather generated and saved to DB.","logger":"root"}
+{"timestamp":"2025-05-20T22:06:10.647370","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-05-20T22:06:10.814527Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-20T22:06:10.815250Z","level":"info","event":" Previous state of the Task instance: running","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-20T22:06:10.815915Z","level":"info","event":"Task operator:<Task(PythonOperator): generar_clima_futuro>","chan":"stdout","logger":"task"}

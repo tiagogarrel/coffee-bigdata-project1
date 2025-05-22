@@ -1,0 +1,11 @@
+{"timestamp":"2025-05-20T22:06:14.680781","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-05-20T22:06:14.683354","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/prediccion_ventas_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-05-20T22:06:15.112344Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-20T22:06:15.113291Z","level":"info","event":" Previous state of the Task instance: queued","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-20T22:06:15.113950Z","level":"info","event":"Current task name:crear_dataset_prediccion","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-20T22:06:15.114614Z","level":"info","event":"Dag name:prediccion_ventas_dag","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-20T22:06:15.134448","level":"info","event":"✅ Prediction dataset built and saved to DB.","logger":"root"}
+{"timestamp":"2025-05-20T22:06:15.136103","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-05-20T22:06:15.247218Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-20T22:06:15.247977Z","level":"info","event":" Previous state of the Task instance: running","chan":"stdout","logger":"task"}
+{"timestamp":"2025-05-20T22:06:15.248815Z","level":"info","event":"Task operator:<Task(PythonOperator): crear_dataset_prediccion>","chan":"stdout","logger":"task"}
